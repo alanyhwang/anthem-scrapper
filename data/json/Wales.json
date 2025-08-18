@@ -1,0 +1,14 @@
+{
+    "country": "Wales",
+    "anthem_names": [
+        "“Hen Wlad fy Nhadau” (Welsh)",
+        "“Land of my Fathers” (English translation)"
+    ],
+    "start_year": "1858",
+    "end_year": "Present",
+    "composers": [
+        "James James"
+    ],
+    "link": "https://nationalanthems.info/wal.htm",
+    "music_path": "data/music/Wales.mp3"
+}

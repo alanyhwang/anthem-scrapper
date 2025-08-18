@@ -1,0 +1,14 @@
+{
+    "country": "Mauritania",
+    "anthem_names": [
+        "“نشيد وطني موريتاني” (Arabic (Arabic script))",
+        "“National Anthem of Mauritania” (English translation)"
+    ],
+    "start_year": "2017",
+    "end_year": "Present",
+    "composers": [
+        "Rajih Sami Daoud"
+    ],
+    "link": "https://nationalanthems.info/mr.htm",
+    "music_path": "data/music/Mauritania.mp3"
+}

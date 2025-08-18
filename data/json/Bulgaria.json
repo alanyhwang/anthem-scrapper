@@ -1,0 +1,15 @@
+{
+    "country": "Bulgaria",
+    "anthem_names": [
+        "“Мила Родино” (Bulgarian (Cyrillic script))",
+        "“Mila Rodino” (Bulgarian (Romanization))",
+        "“Dear Homeland”(English translation)"
+    ],
+    "start_year": "1964",
+    "end_year": "Present",
+    "composers": [
+        "Цветан Радославов (Tsvetan Radoslavov)"
+    ],
+    "link": "https://nationalanthems.info/bg.htm",
+    "music_path": "data/music/Bulgaria.mp3"
+}

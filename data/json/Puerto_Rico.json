@@ -1,0 +1,13 @@
+{
+    "country": "Puerto Rico",
+    "anthem_names": [
+        "“La Borinqueña” (Spanish)"
+    ],
+    "start_year": "1903",
+    "end_year": "Present",
+    "composers": [
+        "Félix Astol Artés"
+    ],
+    "link": "https://nationalanthems.info/pr.htm",
+    "music_path": "data/music/Puerto_Rico.mp3"
+}

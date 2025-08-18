@@ -1,0 +1,14 @@
+{
+    "country": "Lesotho",
+    "anthem_names": [
+        "“Lesotho fatse la bo ntat’a rona” (Sesotho)",
+        "“Lesotho, Land of our Fathers” (English translation)"
+    ],
+    "start_year": "1967",
+    "end_year": "Present",
+    "composers": [
+        "Ferdinand-Samuel Laur"
+    ],
+    "link": "https://nationalanthems.info/ls.htm",
+    "music_path": "data/music/Lesotho.mp3"
+}

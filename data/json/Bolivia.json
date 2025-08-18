@@ -1,0 +1,14 @@
+{
+    "country": "Bolivia",
+    "anthem_names": [
+        "“Canción Patriótica” (Spanish)",
+        "“Patriotic Song” (English translation)"
+    ],
+    "start_year": "1852",
+    "end_year": "Present",
+    "composers": [
+        "Leopoldo Benedetto Vincenti"
+    ],
+    "link": "https://nationalanthems.info/bo.htm",
+    "music_path": "data/music/Bolivia.mp3"
+}

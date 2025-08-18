@@ -1,0 +1,14 @@
+{
+    "country": "Rwanda",
+    "anthem_names": [
+        "“Rwanda nziza” (Kinyarwanda)",
+        "“Rwanda, Our Beautiful Country” (English translation)"
+    ],
+    "start_year": "2001",
+    "end_year": "Present",
+    "composers": [
+        "Jean-Bosco Hashakaimana"
+    ],
+    "link": "https://nationalanthems.info/rw.htm",
+    "music_path": "data/music/Rwanda.mp3"
+}

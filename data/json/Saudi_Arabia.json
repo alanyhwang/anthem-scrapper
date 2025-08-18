@@ -1,0 +1,15 @@
+{
+    "country": "Saudi Arabia",
+    "anthem_names": [
+        "“عاش المليك” (Arabic (Arabic script))",
+        "“Aash Al Maleek” (Arabic (Romanization))",
+        "“Long Live Our Beloved King” (English translation)"
+    ],
+    "start_year": "1947",
+    "end_year": "Present",
+    "composers": [
+        "عبد الرحمن الخطيب (Abdul Rahman Al-Khateeb)"
+    ],
+    "link": "https://nationalanthems.info/sa.htm",
+    "music_path": "data/music/Saudi_Arabia.mp3"
+}

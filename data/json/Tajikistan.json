@@ -1,0 +1,15 @@
+{
+    "country": "Tajikistan",
+    "anthem_names": [
+        "“Суруди миллӣ” (Tajik (Cyrillic script))",
+        "“Surudi milli” (Cyrillic (Romanization))",
+        "“National Anthem” (English translation)"
+    ],
+    "start_year": "1994",
+    "end_year": "Present",
+    "composers": [
+        "Сулейман Юдаков (Suleiman Yudakov)"
+    ],
+    "link": "https://nationalanthems.info/tj.htm",
+    "music_path": "data/music/Tajikistan.mp3"
+}

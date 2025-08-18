@@ -1,0 +1,15 @@
+{
+    "country": "Iran",
+    "anthem_names": [
+        "“سرود ملی جمهوری اسلامی ایران” (Persian (Persian script))",
+        "“Soroud-e Melli-e Jomhouri-e Eslami-e Iran” (Persian (Romanization))",
+        "“National Anthem of the Islamic Republic of Iran” (English translation)"
+    ],
+    "start_year": "1990",
+    "end_year": "Present",
+    "composers": [
+        "Hassan Riahi"
+    ],
+    "link": "https://nationalanthems.info/ir.htm",
+    "music_path": "data/music/Iran.mp3"
+}

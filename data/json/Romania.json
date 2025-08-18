@@ -1,0 +1,14 @@
+{
+    "country": "Romania",
+    "anthem_names": [
+        "“Deşteaptă-te române!” (Romanian)",
+        "“Wake up, Romanian” (English translation)"
+    ],
+    "start_year": "1990",
+    "end_year": "Present",
+    "composers": [
+        "Anton Pann"
+    ],
+    "link": "https://nationalanthems.info/ro.htm",
+    "music_path": "data/music/Romania.mp3"
+}

@@ -1,0 +1,15 @@
+{
+    "country": "Kazakhstan",
+    "anthem_names": [
+        "“Менің Қазақстаным” (Kazakh (Cyrillic script))",
+        "“Meniñ Qazaqstanım” (Kazakh (Latin script))",
+        "“My Kazakhstan” (English translation)"
+    ],
+    "start_year": "2006",
+    "end_year": "Present",
+    "composers": [
+        "Шәмші Қалдаяқов (Shamshi Kaldayakov)"
+    ],
+    "link": "https://nationalanthems.info/kz.htm",
+    "music_path": "data/music/Kazakhstan.mp3"
+}

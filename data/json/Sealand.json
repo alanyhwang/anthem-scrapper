@@ -1,0 +1,14 @@
+{
+    "country": "Sealand",
+    "anthem_names": [
+        "“E Mare Libertas” (Latin)",
+        "“From the Sea, Freedom” (English translation)"
+    ],
+    "start_year": "Unknown",
+    "end_year": "Present",
+    "composers": [
+        "Basil Simonenko"
+    ],
+    "link": "https://nationalanthems.info/sea.htm",
+    "music_path": "data/music/Sealand.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Austria",
+    "anthem_names": [
+        "“Bundeshymn” (German)",
+        "“Federal Hymn” (English translation)"
+    ],
+    "start_year": "1947",
+    "end_year": "Present",
+    "composers": [
+        "Johann Holzer or Wolfgang Mozart"
+    ],
+    "link": "https://nationalanthems.info/at.htm",
+    "music_path": "data/music/Austria.mp3"
+}

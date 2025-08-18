@@ -1,0 +1,18 @@
+{
+    "country": "Belarus",
+    "anthem_names": [
+        "“Дзяржаўны гімн Рэспублікі Беларусь” (Belarusian (Cyrillic script))",
+        "“Dziaržaŭny himn Respubliki Biełaruś” (Belarusian (Romanization))",
+        "“State Anthem of the Republic of Belarus” (English translation)",
+        "“Мы, беларусы” (unofficial title (Belarusian (Cyrillic script)))",
+        "“My, Biełarusy” (unofficial title (Belarusian (Romanization)))",
+        "“We Belarusians” (unofficial title (English translation))"
+    ],
+    "start_year": "1955",
+    "end_year": "Present",
+    "composers": [
+        "Нестар Сакалоўскі (Nester Sakalouski)"
+    ],
+    "link": "https://nationalanthems.info/by.htm",
+    "music_path": "data/music/Belarus.mp3"
+}

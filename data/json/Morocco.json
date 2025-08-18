@@ -1,0 +1,15 @@
+{
+    "country": "Morocco",
+    "anthem_names": [
+        "“النشيد الشريف” (Arabic (Arabic script))",
+        "“Hymne Chérifien” (French)",
+        "“Hymn of the Sharif” (English translation)"
+    ],
+    "start_year": "1956",
+    "end_year": "Present",
+    "composers": [
+        "Léo Morgan"
+    ],
+    "link": "https://nationalanthems.info/ma.htm",
+    "music_path": "data/music/Morocco.mp3"
+}

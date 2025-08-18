@@ -1,0 +1,14 @@
+{
+    "country": "France",
+    "anthem_names": [
+        "“La Marseillaise” (French)",
+        "“The Song of Marseille” (English translation)"
+    ],
+    "start_year": "1795",
+    "end_year": "Present",
+    "composers": [
+        "Claude-Joseph Rouget de Lisle"
+    ],
+    "link": "https://nationalanthems.info/fr.htm",
+    "music_path": "data/music/France.mp3"
+}

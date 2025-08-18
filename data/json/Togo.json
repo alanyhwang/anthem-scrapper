@@ -1,0 +1,14 @@
+{
+    "country": "Togo",
+    "anthem_names": [
+        "“Salut à toi, pays de nos aïeux” (French)",
+        "“Hail to thee, land of our forefathers” (English translation)"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "Alex Casimir-Dosseh"
+    ],
+    "link": "https://nationalanthems.info/tg.htm",
+    "music_path": "data/music/Togo.mp3"
+}

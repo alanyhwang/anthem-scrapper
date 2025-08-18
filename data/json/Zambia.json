@@ -1,0 +1,14 @@
+{
+    "country": "Zambia",
+    "anthem_names": [
+        "“Lumbanyeni Zambia” (Bemba)",
+        "“Stand and Sing of Zambia, Proud and Free” (English)"
+    ],
+    "start_year": "1964",
+    "end_year": "Present",
+    "composers": [
+        "Enoch Mankayi Sontonga"
+    ],
+    "link": "https://nationalanthems.info/zm.htm",
+    "music_path": "data/music/Zambia.mp3"
+}

@@ -1,0 +1,17 @@
+{
+    "country": "Cambodia",
+    "anthem_names": [
+        "“នគររាជ” (Khmer (Khmer script))",
+        "“Nokoreach” (Khmer (Romanization))",
+        "“Royal Kingdom” (English translation)"
+    ],
+    "start_year": "1941",
+    "end_year": "Present",
+    "composers": [
+        "François Perruchot",
+        "Jean Jekyll",
+        "(based on a Cambodian folk tune)"
+    ],
+    "link": "https://nationalanthems.info/kh.htm",
+    "music_path": "data/music/Cambodia.mp3"
+}

@@ -1,0 +1,13 @@
+{
+    "country": "Newfoundland",
+    "anthem_names": [
+        "“Ode to Newfoundland”"
+    ],
+    "start_year": "1904",
+    "end_year": "Present",
+    "composers": [
+        "Hubert Parry"
+    ],
+    "link": "https://nationalanthems.info/nfl.htm",
+    "music_path": "data/music/Newfoundland.mp3"
+}

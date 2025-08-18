@@ -1,0 +1,15 @@
+{
+    "country": "Bhutan",
+    "anthem_names": [
+        "“འབྲུག་ཙན་དན་” (Dzongkha (Tibetan script))",
+        "“Druk tsendhen” (Dzongkha (Romanization)",
+        "“The Thunder Dragon Kingdom” (English translation)"
+    ],
+    "start_year": "1953",
+    "end_year": "Present",
+    "composers": [
+        "Aku Tongmi"
+    ],
+    "link": "https://nationalanthems.info/bt.htm",
+    "music_path": "data/music/Bhutan.mp3"
+}

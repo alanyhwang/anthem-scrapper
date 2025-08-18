@@ -1,0 +1,15 @@
+{
+    "country": "Artsakh",
+    "anthem_names": [
+        "“Ազատ ու անկախ Արցախ” (Armenian (Armenian script))",
+        "“Azat u ankakh Artsakh” (Armenian (Romanization))",
+        "“Free and Independent Artsakh” (English translation)"
+    ],
+    "start_year": "1992",
+    "end_year": "Present",
+    "composers": [
+        "Արմեն Նասիբյան  (Armen Nassibian)"
+    ],
+    "link": "http://www.nationalanthems.info/art.htm",
+    "music_path": "data/music/Artsakh.mp3"
+}

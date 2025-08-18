@@ -1,0 +1,13 @@
+{
+    "country": "Nigeria",
+    "anthem_names": [
+        "“Nigeria We Hail Thee”"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "Frances Benda"
+    ],
+    "link": "https://nationalanthems.info/ng.htm",
+    "music_path": "data/music/Nigeria.mp3"
+}

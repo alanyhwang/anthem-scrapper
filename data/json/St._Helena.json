@@ -1,0 +1,13 @@
+{
+    "country": "St. Helena",
+    "anthem_names": [
+        "“My St. Helena Island”"
+    ],
+    "start_year": "1975",
+    "end_year": "Present",
+    "composers": [
+        "Dave Mitchell"
+    ],
+    "link": "https://nationalanthems.info/sh.htm",
+    "music_path": "data/music/St._Helena.mp3"
+}

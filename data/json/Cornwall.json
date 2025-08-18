@@ -1,0 +1,15 @@
+{
+    "country": "Cornwall",
+    "anthem_names": [
+        "“Can Tus West” (Cornish)",
+        "“Song of the Western Men” (English)",
+        "“Trelawny” (alternate title (Cornish and English))"
+    ],
+    "start_year": "Unknown",
+    "end_year": "Present",
+    "composers": [
+        "Robert Stephen Hawker"
+    ],
+    "link": "https://nationalanthems.info/cor.htm",
+    "music_path": "data/music/Cornwall.mp3"
+}

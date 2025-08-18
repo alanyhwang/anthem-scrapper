@@ -1,0 +1,15 @@
+{
+    "country": "Japan",
+    "anthem_names": [
+        "“君が代” (Japanese (Hiragana and Kanji scripts))",
+        "“Kimigayo” (Japanese (Rōmaji Romanization))",
+        "“His Majesty’s Reign” (English translation (unofficial))"
+    ],
+    "start_year": "1870",
+    "end_year": "Present",
+    "composers": [
+        "廣森林 (Hiromori Hayashi)"
+    ],
+    "link": "https://nationalanthems.info/jp.htm",
+    "music_path": "data/music/Japan.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Flanders",
+    "anthem_names": [
+        "“De Vlaamse Leeuw” (Dutch)",
+        "“The Flemish Lion” (English translation)"
+    ],
+    "start_year": "1973",
+    "end_year": "Present",
+    "composers": [
+        "Karel Miry"
+    ],
+    "link": "https://nationalanthems.info/fla.htm",
+    "music_path": "data/music/Flanders.mp3"
+}

@@ -1,0 +1,16 @@
+{
+    "country": "Hungary",
+    "anthem_names": [
+        "“Himnusz” (Hungarian)",
+        "“Hymn” (English translation)",
+        "“Isten, áldd meg a magyart” (unofficial title (Hungarian))",
+        "“God, Bless the Hungarians” (unofficial title (English translation))"
+    ],
+    "start_year": "1844",
+    "end_year": "Present",
+    "composers": [
+        "Ferenc Erkel"
+    ],
+    "link": "https://nationalanthems.info/hu.htm",
+    "music_path": "data/music/Hungary.mp3"
+}

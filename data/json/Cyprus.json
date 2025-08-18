@@ -1,0 +1,15 @@
+{
+    "country": "Cyprus",
+    "anthem_names": [
+        "“Ύμνος εις την Ελευθερίαν” (Greek (Greek script))",
+        "“Ymnos eis tin Eleftherian” (Greek (Romanization))",
+        "“Hymn to Freedom” (English translation)"
+    ],
+    "start_year": "1966",
+    "end_year": "Present",
+    "composers": [
+        "Νικόλαος Μάντζαρος (Nikolaos Mantzaros)"
+    ],
+    "link": "https://nationalanthems.info/cy.htm",
+    "music_path": "data/music/Cyprus.mp3"
+}

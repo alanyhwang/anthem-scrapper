@@ -1,0 +1,14 @@
+{
+    "country": "Azores",
+    "anthem_names": [
+        "“Hino dos Açores” (Portuguese)",
+        "“Hymn of the Azores”(English translation)"
+    ],
+    "start_year": "1980",
+    "end_year": "Present",
+    "composers": [
+        "Joaquim Lima"
+    ],
+    "link": "https://nationalanthems.info/aco.htm",
+    "music_path": "data/music/Azores.mp3"
+}

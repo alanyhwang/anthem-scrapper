@@ -1,0 +1,15 @@
+{
+    "country": "Montenegro",
+    "anthem_names": [
+        "“Ој, свијетла мајска зоро” (Montenegrin (Cyrillic script))",
+        "“Oj, svijetla majska zoro” (Montenegrin (Latin script))",
+        "“Oh, Bright Dawn of May” (English translation)"
+    ],
+    "start_year": "2004",
+    "end_year": "Present",
+    "composers": [
+        "unknown (arrangement based on a harmonization by Zarko Mikovic)"
+    ],
+    "link": "https://nationalanthems.info/me.htm",
+    "music_path": "data/music/Montenegro.mp3"
+}

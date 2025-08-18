@@ -1,0 +1,14 @@
+{
+    "country": "Catalonia",
+    "anthem_names": [
+        "“Els Segadors” (Catalan)",
+        "“The Reapers” (English translation)"
+    ],
+    "start_year": "1899",
+    "end_year": "Present",
+    "composers": [
+        "Francesc Alió"
+    ],
+    "link": "https://nationalanthems.info/cat.htm",
+    "music_path": "data/music/Catalonia.mp3"
+}

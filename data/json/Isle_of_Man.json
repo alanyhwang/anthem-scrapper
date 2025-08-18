@@ -1,0 +1,15 @@
+{
+    "country": "Isle of Man",
+    "anthem_names": [
+        "“Arrane Ashoonagh Dy Vannin” (Manx)",
+        "“Isle of Man National Anthem” (English translation)",
+        "“O Land of Our Birth” (unofficial title (English))"
+    ],
+    "start_year": "1907",
+    "end_year": "Present",
+    "composers": [
+        "traditional"
+    ],
+    "link": "https://nationalanthems.info/im.htm",
+    "music_path": "data/music/Isle_of_Man.mp3"
+}

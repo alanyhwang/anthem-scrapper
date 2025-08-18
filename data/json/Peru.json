@@ -1,0 +1,14 @@
+{
+    "country": "Peru",
+    "anthem_names": [
+        "“Himno Nacional del Perú” (Spanish)",
+        "“National Anthem of Peru” (English translation)"
+    ],
+    "start_year": "1821",
+    "end_year": "Present",
+    "composers": [
+        "José Bernardo Alzedo"
+    ],
+    "link": "https://nationalanthems.info/pe.htm",
+    "music_path": "data/music/Peru.mp3"
+}

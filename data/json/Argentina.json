@@ -1,0 +1,14 @@
+{
+    "country": "Argentina",
+    "anthem_names": [
+        "“Himno Nacional Argentino” (Spanish)",
+        "“Argentine National Anthem” (English translation)"
+    ],
+    "start_year": "1813",
+    "end_year": "Present",
+    "composers": [
+        "José Blas Parera"
+    ],
+    "link": "https://nationalanthems.info/ar.htm",
+    "music_path": "data/music/Argentina.mp3"
+}

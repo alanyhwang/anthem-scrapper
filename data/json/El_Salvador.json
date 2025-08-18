@@ -1,0 +1,14 @@
+{
+    "country": "El Salvador",
+    "anthem_names": [
+        "“Himno Nacional de El Salvador” (Spanish)",
+        "“National Anthem of El Salvador” (English translation)"
+    ],
+    "start_year": "1879",
+    "end_year": "Present",
+    "composers": [
+        "Juan Aberle"
+    ],
+    "link": "https://nationalanthems.info/sv.htm",
+    "music_path": "data/music/El_Salvador.mp3"
+}

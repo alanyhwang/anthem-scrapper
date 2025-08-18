@@ -1,0 +1,16 @@
+{
+    "country": "Colombia",
+    "anthem_names": [
+        "“Himno Nacional de la República de Colombia” (Spanish)",
+        "“National Anthem of the Republic of Colombia”(English translation)",
+        "“¡Oh gloria inmarcesible!” (unofficial title (Spanish))",
+        "“O Unfading Glory!” (unofficial title (English translation))"
+    ],
+    "start_year": "1920",
+    "end_year": "Present",
+    "composers": [
+        "Oreste Sindici"
+    ],
+    "link": "https://nationalanthems.info/co.htm",
+    "music_path": "data/music/Colombia.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Albania",
+    "anthem_names": [
+        "“Hymni i Flamurit” (Albanian)",
+        "“Hymn to the Flag” (English translation)"
+    ],
+    "start_year": "1912",
+    "end_year": "Present",
+    "composers": [
+        "Ciprian Porumbescu"
+    ],
+    "link": "https://nationalanthems.info/al.htm",
+    "music_path": "data/music/Albania.mp3"
+}

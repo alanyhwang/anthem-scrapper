@@ -1,0 +1,13 @@
+{
+    "country": "St. Martin",
+    "anthem_names": [
+        "“O Sweet Saint Martin’s Land”"
+    ],
+    "start_year": "Unknown",
+    "end_year": "Present",
+    "composers": [
+        "Gerard Kemps"
+    ],
+    "link": "https://nationalanthems.info/mf.htm",
+    "music_path": "data/music/St._Martin.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Ecuador",
+    "anthem_names": [
+        "“Salve, Oh Patria!” (Spanish)",
+        "“We Salute You Our Homeland (English translation)"
+    ],
+    "start_year": "1948",
+    "end_year": "Present",
+    "composers": [
+        "Antonio Neumane"
+    ],
+    "link": "https://nationalanthems.info/ec.htm",
+    "music_path": "data/music/Ecuador.mp3"
+}

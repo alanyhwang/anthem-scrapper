@@ -1,0 +1,18 @@
+{
+    "country": "Karelia",
+    "anthem_names": [
+        "“Государственный гимн Республики Карелия” (Russian (Cyrillic script))",
+        "“Gosudarstvenny gimn Respubliki Kareliya” (Russian (Romanization))",
+        "“Anthem of the Republic of Karelia” (English translation)",
+        "“Край родной, Карелия!” (unofficial title (Russian (Cyrillic script)))",
+        "“Kraj Rodnoj Karelija” (unofficial title (Russian (Romanization)))",
+        "“Native Land, Karelia” (unofficial title (English translation))"
+    ],
+    "start_year": "1993",
+    "end_year": "Present",
+    "composers": [
+        "Alexandr Beloborodov"
+    ],
+    "link": "https://nationalanthems.info/kar.htm",
+    "music_path": "data/music/Karelia.mp3"
+}

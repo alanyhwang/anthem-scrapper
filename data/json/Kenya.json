@@ -1,0 +1,19 @@
+{
+    "country": "Kenya",
+    "anthem_names": [
+        "“Ee Mungu Nguvu Yetu” (Swahili)",
+        "“Oh God of All Creation” (English)"
+    ],
+    "start_year": "1963",
+    "end_year": "Present",
+    "composers": [
+        "traditional (adapted by:",
+        "Graham Hyslop",
+        "Thomas Kalume",
+        "Peter Kibukosya",
+        "Washington Omondi",
+        "George W. Senoga-Zake)"
+    ],
+    "link": "https://nationalanthems.info/ke.htm",
+    "music_path": "data/music/Kenya.mp3"
+}

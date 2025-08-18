@@ -1,0 +1,14 @@
+{
+    "country": "Brittany",
+    "anthem_names": [
+        "“Bro Goz ma Zadoù” (Breton)",
+        "“Old Land of My Fathers” (English translation)"
+    ],
+    "start_year": "1903",
+    "end_year": "Present",
+    "composers": [
+        "James James (adapted)"
+    ],
+    "link": "https://nationalanthems.info/bri.htm",
+    "music_path": "data/music/Brittany.mp3"
+}

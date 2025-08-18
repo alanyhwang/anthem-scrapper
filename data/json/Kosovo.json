@@ -1,0 +1,17 @@
+{
+    "country": "Kosovo",
+    "anthem_names": [
+        "“Evropa” (Albanian)",
+        "“Европа” (Serbian (Cyrillic script)",
+        "“Europe” (English translation)",
+        "“Hymni i Republikës së Kosovës” (unofficial title (Albanian))",
+        "“National Anthem of the Republic of Kosovo” (unofficial title (English translation))"
+    ],
+    "start_year": "2008",
+    "end_year": "Present",
+    "composers": [
+        "Mendi Mengjiqi"
+    ],
+    "link": "https://nationalanthems.info/kos.htm",
+    "music_path": "data/music/Kosovo.mp3"
+}

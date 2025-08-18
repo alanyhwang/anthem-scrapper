@@ -1,0 +1,14 @@
+{
+    "country": "Austria-Hungary",
+    "anthem_names": [
+        "“Die Kaiserhymne” (German)",
+        "“The Emperor’s Hymn” (English translation)"
+    ],
+    "start_year": "1797",
+    "end_year": "Present",
+    "composers": [
+        "Joseph Haydn"
+    ],
+    "link": "https://nationalanthems.info/ath.htm",
+    "music_path": "data/music/Austria-Hungary.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Madeira Islands",
+    "anthem_names": [
+        "“Hino da Região Autónoma da Madeira” (Portuguese)",
+        "“Hymn of the Autonomous Region of Madeira” (English translation)"
+    ],
+    "start_year": "1980",
+    "end_year": "Present",
+    "composers": [
+        "João Victor Costa"
+    ],
+    "link": "https://nationalanthems.info/mad.htm",
+    "music_path": "data/music/Madeira_Islands.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Belgium",
+    "anthem_names": [
+        "“La Brabançonne” (French (retained for Dutch and German))",
+        "“The Song of Brabant” (English translation)"
+    ],
+    "start_year": "1830",
+    "end_year": "Present",
+    "composers": [
+        "François van Campenhout"
+    ],
+    "link": "https://nationalanthems.info/be.htm",
+    "music_path": "data/music/Belgium.mp3"
+}

@@ -1,0 +1,16 @@
+{
+    "country": "Costa Rica",
+    "anthem_names": [
+        "“Himno Nacional de Costa Rica” (Spanish)",
+        "“Costa Rican National Anthem” (English translation)",
+        "“Noble patria, tu hermosa bandera” (unofficial title (Spanish))",
+        "“Noble homeland, your beautiful flag” (unofficial title (English translation))"
+    ],
+    "start_year": "1949",
+    "end_year": "Present",
+    "composers": [
+        "Manuel María Gutiérrez"
+    ],
+    "link": "https://nationalanthems.info/cr.htm",
+    "music_path": "data/music/Costa_Rica.mp3"
+}

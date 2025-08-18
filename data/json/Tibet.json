@@ -1,0 +1,15 @@
+{
+    "country": "Tibet",
+    "anthem_names": [
+        "“བོད་རྒྱལ་ཁབ་ཆེན་པོའི་རྒྱལ་གླུ” (Tibetan (Tibetan script))",
+        "“bod rgyal khab chen po’i rgyal glu” (Tibetan (Wylie Romanization))",
+        "“Tibetan Government National Anthem” (English translation)"
+    ],
+    "start_year": "1949",
+    "end_year": "Present",
+    "composers": [
+        "traditional"
+    ],
+    "link": "https://nationalanthems.info/tib.htm",
+    "music_path": "data/music/Tibet.mp3"
+}

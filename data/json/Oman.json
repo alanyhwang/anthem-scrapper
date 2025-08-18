@@ -1,0 +1,16 @@
+{
+    "country": "Oman",
+    "anthem_names": [
+        "“نشيد وطني عماني” (Arabic (Arabic script))",
+        "“Nashid as-Salaam as-Sultani” (Arabic (Romanization))",
+        "“The Sultan’s Anthem” (English translation)"
+    ],
+    "start_year": "1932",
+    "end_year": "Present",
+    "composers": [
+        "James Frederick Mills",
+        "Bernard Ebbinghaus (arranger)"
+    ],
+    "link": "https://nationalanthems.info/om.htm",
+    "music_path": "data/music/Oman.mp3"
+}

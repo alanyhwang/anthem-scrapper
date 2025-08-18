@@ -1,0 +1,15 @@
+{
+    "country": "South Ossetia",
+    "anthem_names": [
+        "“Республикæ Хуссар Ирыстоны Паддзахадон Гимн” (Ossetic (Cyrillic script))",
+        "“Respublikæ Xussar Irystony Paddzaxadon Gimn” (Ossetic (Latin alphabet))",
+        "“The National Anthem of South Ossetia” (English translation)"
+    ],
+    "start_year": "1995",
+    "end_year": "Present",
+    "composers": [
+        "Феликс Алборов (Felix Alborov)"
+    ],
+    "link": "https://nationalanthems.info/oss.htm",
+    "music_path": "data/music/South_Ossetia.mp3"
+}

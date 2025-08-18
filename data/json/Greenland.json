@@ -1,0 +1,14 @@
+{
+    "country": "Greenland",
+    "anthem_names": [
+        "“Nunarput utoqqarsuanngoravit” (Kalaallisut)",
+        "“Our Country, Who’s Become So Old” (English translation)"
+    ],
+    "start_year": "1916",
+    "end_year": "Present",
+    "composers": [
+        "Jonathan Petersen"
+    ],
+    "link": "https://nationalanthems.info/gl.htm",
+    "music_path": "data/music/Greenland.mp3"
+}

@@ -1,0 +1,18 @@
+{
+    "country": "United Arab Emirates",
+    "anthem_names": [
+        "“النشيد الوطني الاماراتي‎” (Arabic (Arabic script))",
+        "“Nashid al-watani al-imarati” (Arabic (Romanization))",
+        "“National Anthem of the UAE” (English translation)",
+        "“عيشي بلادي” (alternate title (Arabic (Arabic script)))",
+        "“Ishy Bilady” (alternate title (Arabic (Romanization)))",
+        "“Long Live My Nation” (alternate title (English translation))"
+    ],
+    "start_year": "1971",
+    "end_year": "Present",
+    "composers": [
+        "محمد عبد الوهاب‎ (Mohamad Abdel Wahab)"
+    ],
+    "link": "https://nationalanthems.info/ae.htm",
+    "music_path": "data/music/United_Arab_Emirates.mp3"
+}

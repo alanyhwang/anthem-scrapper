@@ -1,0 +1,14 @@
+{
+    "country": "Benin",
+    "anthem_names": [
+        "“L’Aube Nouvelle” (French)",
+        "“The Dawn of a New Day” (English translation)"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "Gilbert Jean Dagnon"
+    ],
+    "link": "https://nationalanthems.info/bj.htm",
+    "music_path": "data/music/Benin.mp3"
+}

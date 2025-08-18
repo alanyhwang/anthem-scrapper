@@ -1,0 +1,16 @@
+{
+    "country": "Israel",
+    "anthem_names": [
+        "“הַתִּקְוָה” (Hebrew (Hebrew script))",
+        "“Hatikvah” (Hebrew (Romanization))",
+        "“The Hope” (English translation)"
+    ],
+    "start_year": "1948",
+    "end_year": "Present",
+    "composers": [
+        "traditional",
+        "שמואל כהן (Shmuel Cohen) (arranger)"
+    ],
+    "link": "https://nationalanthems.info/il.htm",
+    "music_path": "data/music/Israel.mp3"
+}

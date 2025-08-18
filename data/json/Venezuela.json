@@ -1,0 +1,14 @@
+{
+    "country": "Venezuela",
+    "anthem_names": [
+        "“Gloria al bravo pueblo” (Spanish)",
+        "“Glory to the Brave People” (English translation)"
+    ],
+    "start_year": "1881",
+    "end_year": "Present",
+    "composers": [
+        "Juan José Landaeta"
+    ],
+    "link": "https://nationalanthems.info/ve.htm",
+    "music_path": "data/music/Venezuela.mp3"
+}

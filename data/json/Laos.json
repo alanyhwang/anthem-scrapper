@@ -1,0 +1,15 @@
+{
+    "country": "Laos",
+    "anthem_names": [
+        "“ເພງຊາດລາວ” (Lao (Lao script))",
+        "“Pheng Xat Lao” (Lao (Romanization))",
+        "“Hymn of the Lao People” (English translation)"
+    ],
+    "start_year": "1947",
+    "end_year": "Present",
+    "composers": [
+        "ດຣ. ທອງດີ ສຸນທອນວຶຈິດ (Dr. Thongdy Sounthonevichit)"
+    ],
+    "link": "https://nationalanthems.info/la.htm",
+    "music_path": "data/music/Laos.mp3"
+}

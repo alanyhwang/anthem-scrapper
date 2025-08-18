@@ -1,0 +1,15 @@
+{
+    "country": "Comoros",
+    "anthem_names": [
+        "“Udzima wa ya Masiwa” (Comorian/Shimasiwa)",
+        "“The Union of the Great Islands” (English translation)"
+    ],
+    "start_year": "1978",
+    "end_year": "Present",
+    "composers": [
+        "Saïd Hachim Sidi Abdérémane",
+        "Kamildine Abdallah"
+    ],
+    "link": "https://nationalanthems.info/km.htm",
+    "music_path": "data/music/Comoros.mp3"
+}

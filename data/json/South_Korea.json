@@ -1,0 +1,15 @@
+{
+    "country": "South Korea",
+    "anthem_names": [
+        "“애국가” (Korean (Han-geul script))",
+        "“Aegukga” (Korean (Revised Romanization))",
+        "“Patriotic Song” (English translation)"
+    ],
+    "start_year": "1948",
+    "end_year": "Present",
+    "composers": [
+        "안익태 (Ahn Eaktay)"
+    ],
+    "link": "https://nationalanthems.info/kr.htm",
+    "music_path": "data/music/South_Korea.mp3"
+}

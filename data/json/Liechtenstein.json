@@ -1,0 +1,14 @@
+{
+    "country": "Liechtenstein",
+    "anthem_names": [
+        "“Oben am jungen Rhein” (German)",
+        "“High Above the Young Rhine” (English translation)"
+    ],
+    "start_year": "1850",
+    "end_year": "Present",
+    "composers": [
+        "unknown"
+    ],
+    "link": "https://nationalanthems.info/li.htm",
+    "music_path": "data/music/Liechtenstein.mp3"
+}

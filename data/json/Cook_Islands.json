@@ -1,0 +1,14 @@
+{
+    "country": "Cook Islands",
+    "anthem_names": [
+        "“Te Atua Mou E” (Cook Islands Maori)",
+        "“To God Almighty” (English translation)"
+    ],
+    "start_year": "1981",
+    "end_year": "Present",
+    "composers": [
+        "Thomas Davis"
+    ],
+    "link": "https://nationalanthems.info/ck.htm",
+    "music_path": "data/music/Cook_Islands.mp3"
+}

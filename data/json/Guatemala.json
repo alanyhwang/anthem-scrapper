@@ -1,0 +1,14 @@
+{
+    "country": "Guatemala",
+    "anthem_names": [
+        "“Himno Nacional de Guatemala” (Spanish)",
+        "“National Anthem of Guatemala” (English translation)"
+    ],
+    "start_year": "1896",
+    "end_year": "Present",
+    "composers": [
+        "Rafael Alvarez Ovalle"
+    ],
+    "link": "https://nationalanthems.info/gt.htm",
+    "music_path": "data/music/Guatemala.mp3"
+}

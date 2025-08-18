@@ -1,0 +1,14 @@
+{
+    "country": "Brazil",
+    "anthem_names": [
+        "“Hino Nacional Brasileiro” (Portuguese)",
+        "“Brazilian National Anthem” (English translation)"
+    ],
+    "start_year": "1831",
+    "end_year": "Present",
+    "composers": [
+        "Francisco Manoel da Silva"
+    ],
+    "link": "https://nationalanthems.info/br.htm",
+    "music_path": "data/music/Brazil.mp3"
+}

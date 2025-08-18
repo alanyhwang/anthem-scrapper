@@ -1,0 +1,16 @@
+{
+    "country": "Senegal",
+    "anthem_names": [
+        "“Pincez Tous vos Koras, Frappez les Balafons” (French)",
+        "“Pluck Your Koras, Strike the Balafons” (English translation)",
+        "“Le Lion Rouge” (unofficial title (French))",
+        "“The Red Lion” (unofficial title (English translation))"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "Herbert Pepper"
+    ],
+    "link": "https://nationalanthems.info/sn.htm",
+    "music_path": "data/music/Senegal.mp3"
+}

@@ -1,0 +1,16 @@
+{
+    "country": "Upper Volta",
+    "anthem_names": [
+        "“Hymne Nationale Voltaïque” (French)",
+        "“National Anthem of Upper Volta” (English translation)",
+        "“La Volta” (alternate title (French))",
+        "“The Volta” (alternate title (English translation))"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "Robert Ouedraogo"
+    ],
+    "link": "https://nationalanthems.info/uvo.htm",
+    "music_path": "data/music/Upper_Volta.mp3"
+}

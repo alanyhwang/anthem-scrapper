@@ -1,0 +1,15 @@
+{
+    "country": "Finland",
+    "anthem_names": [
+        "“Maamme” (Finnish)",
+        "“Vårt land” (Swedish)",
+        "“Our Land” (English translation (of Finnish and Swedish))"
+    ],
+    "start_year": "1848",
+    "end_year": "Present",
+    "composers": [
+        "Fredrik Pacius"
+    ],
+    "link": "https://nationalanthems.info/fi.htm",
+    "music_path": "data/music/Finland.mp3"
+}

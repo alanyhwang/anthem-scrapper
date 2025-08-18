@@ -1,0 +1,14 @@
+{
+    "country": "Malaysia",
+    "anthem_names": [
+        "“Negaraku” (Malay)",
+        "“My Country” (English translation)"
+    ],
+    "start_year": "1957",
+    "end_year": "Present",
+    "composers": [
+        "Pierre Jean de Beranger"
+    ],
+    "link": "https://nationalanthems.info/my.htm",
+    "music_path": "data/music/Malaysia.mp3"
+}

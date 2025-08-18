@@ -1,0 +1,15 @@
+{
+    "country": "Qatar",
+    "anthem_names": [
+        "“أس سلام الأمير” (Arabic (Arabic script))",
+        "“Al-Salam Al-Amiri” (Arabic (Romanization))",
+        "“Peace be to the Emir” (English translation)"
+    ],
+    "start_year": "1996",
+    "end_year": "Present",
+    "composers": [
+        "عبد العزيز ناصر العبيدان (Abdul Aziz Nasser Obaidan)"
+    ],
+    "link": "https://nationalanthems.info/qa.htm",
+    "music_path": "data/music/Qatar.mp3"
+}

@@ -1,0 +1,15 @@
+{
+    "country": "Ireland",
+    "anthem_names": [
+        "“Amhrán na bhFiann” (Irish)",
+        "“The Soldier’s Song” (English translation)"
+    ],
+    "start_year": "1926",
+    "end_year": "Present",
+    "composers": [
+        "Patrick Heeney",
+        "Peadar Kearney"
+    ],
+    "link": "https://nationalanthems.info/ie.htm",
+    "music_path": "data/music/Ireland.mp3"
+}

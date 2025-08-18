@@ -1,0 +1,14 @@
+{
+    "country": "South Africa",
+    "anthem_names": [
+        "“National Anthem of South Africa”"
+    ],
+    "start_year": "1997",
+    "end_year": "Present",
+    "composers": [
+        "Enoch Sontonga",
+        "Marthinus Lourens de Villiers"
+    ],
+    "link": "https://nationalanthems.info/za.htm",
+    "music_path": "data/music/South_Africa.mp3"
+}

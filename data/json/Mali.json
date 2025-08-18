@@ -1,0 +1,18 @@
+{
+    "country": "Mali",
+    "anthem_names": [
+        "“Le Mali” (French)",
+        "“Mali” (English translation)",
+        "“Pour L’Afrique et pour toi, Mali” (unofficial title (French))",
+        "“For Africa and for You, Mali” (unofficial title (English translation))",
+        "“A ton appel Mali” (unofficial title (French))",
+        "“At Your Call, Mali” (unofficial title (English translation))"
+    ],
+    "start_year": "1962",
+    "end_year": "Present",
+    "composers": [
+        "Banzoumana Sissoko"
+    ],
+    "link": "https://nationalanthems.info/ml.htm",
+    "music_path": "data/music/Mali.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Vatican City",
+    "anthem_names": [
+        "“Hymnus Pontificius” (Latin)",
+        "“Pontifical Anthem” (English translation)"
+    ],
+    "start_year": "1949",
+    "end_year": "Present",
+    "composers": [
+        "Charles-François Gounod"
+    ],
+    "link": "https://nationalanthems.info/va.htm",
+    "music_path": "data/music/Vatican_City.mp3"
+}

@@ -1,0 +1,16 @@
+{
+    "country": "Kyrgyzstan",
+    "anthem_names": [
+        "“Кыргыз Республикасынын Мамлекеттик Гимни”  (Kyrgyz (Cyrillic script))",
+        "“Kyrgyz Respublikasynyn Mamlekettik Gimni” (Kyrgyz (Romanization))",
+        "“National Anthem of the Kyrgyz Republic” (English translation)"
+    ],
+    "start_year": "1992",
+    "end_year": "Present",
+    "composers": [
+        "Н. Давлесов (Nasyr Davlesov)",
+        "К. Молдобасанов (Kalyi Moldobasanov)"
+    ],
+    "link": "https://nationalanthems.info/kg.htm",
+    "music_path": "data/music/Kyrgyzstan.mp3"
+}

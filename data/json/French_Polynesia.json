@@ -1,0 +1,20 @@
+{
+    "country": "French Polynesia",
+    "anthem_names": [
+        "“Ia Ora ‘O Tahiti Nui” (Tahitian)",
+        "“Long Live Tahiti Nui” (English translation)"
+    ],
+    "start_year": "1993",
+    "end_year": "Present",
+    "composers": [
+        "Maeva Bougues",
+        "Irmine Tehei",
+        "Angèle Terorotua",
+        "Johanna Nouveau",
+        "Patrick Amar",
+        "Louis Mamatui",
+        "Jean-Pierre Célestin"
+    ],
+    "link": "https://nationalanthems.info/pf.htm",
+    "music_path": "data/music/French_Polynesia.mp3"
+}

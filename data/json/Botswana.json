@@ -1,0 +1,14 @@
+{
+    "country": "Botswana",
+    "anthem_names": [
+        "“Fatshe leno la rona” (Setswana)",
+        "“Our Land” (English translation)"
+    ],
+    "start_year": "1966",
+    "end_year": "Present",
+    "composers": [
+        "Kgalemang Tumedisco Motsete"
+    ],
+    "link": "https://nationalanthems.info/bw.htm",
+    "music_path": "data/music/Botswana.mp3"
+}

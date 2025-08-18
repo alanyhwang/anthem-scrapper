@@ -1,0 +1,18 @@
+{
+    "country": "Spain",
+    "anthem_names": [
+        "“Himno Nacional Español” (Spanish)",
+        "“National Anthem of Spain” (English translation)",
+        "“Marcha Real” (alternate title (Spanish))",
+        "“Royal March” (alternate title (English translation))",
+        "“Marcha Granadera” (alternate title (Spanish))",
+        "“March of the Grenadiers” (alternate title (English translation))"
+    ],
+    "start_year": "1770",
+    "end_year": "Present",
+    "composers": [
+        "unknown"
+    ],
+    "link": "https://nationalanthems.info/es.htm",
+    "music_path": "data/music/Spain.mp3"
+}

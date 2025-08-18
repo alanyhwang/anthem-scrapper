@@ -1,0 +1,13 @@
+{
+    "country": "Australia",
+    "anthem_names": [
+        "“Advance Australia Fair”"
+    ],
+    "start_year": "1984",
+    "end_year": "Present",
+    "composers": [
+        "Peter Dodds McCormick"
+    ],
+    "link": "https://nationalanthems.info/au.htm",
+    "music_path": "data/music/Australia.mp3"
+}

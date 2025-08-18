@@ -1,0 +1,14 @@
+{
+    "country": "Cuba",
+    "anthem_names": [
+        "“La Bayamesa” (Spanish)",
+        "“The Bayamo Song” (English translation)"
+    ],
+    "start_year": "1940",
+    "end_year": "Present",
+    "composers": [
+        "Pedro Figueredo"
+    ],
+    "link": "https://nationalanthems.info/cu.htm",
+    "music_path": "data/music/Cuba.mp3"
+}

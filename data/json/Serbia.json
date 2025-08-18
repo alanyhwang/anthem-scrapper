@@ -1,0 +1,15 @@
+{
+    "country": "Serbia",
+    "anthem_names": [
+        "“Боже правде” (Serbian (Cyrillic script))",
+        "“Bože pravde” (Serbian (Latin alphabet))",
+        "“God of Justice” (English translation)"
+    ],
+    "start_year": "1904",
+    "end_year": "Present",
+    "composers": [
+        "Davorin Jenko"
+    ],
+    "link": "https://nationalanthems.info/rs.htm",
+    "music_path": "data/music/Serbia.mp3"
+}

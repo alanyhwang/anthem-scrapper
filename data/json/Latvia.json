@@ -1,0 +1,14 @@
+{
+    "country": "Latvia",
+    "anthem_names": [
+        "“Dievs, svētī Latviju!” (Latvian)",
+        "“God Bless Latvia” (English translation)"
+    ],
+    "start_year": "1920",
+    "end_year": "Present",
+    "composers": [
+        "Kārlis Baumanis"
+    ],
+    "link": "https://nationalanthems.info/lv.htm",
+    "music_path": "data/music/Latvia.mp3"
+}

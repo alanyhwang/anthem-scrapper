@@ -1,0 +1,14 @@
+{
+    "country": "Canada",
+    "anthem_names": [
+        "“O Canada” (English)",
+        "“Ô Canada” (French)"
+    ],
+    "start_year": "1980",
+    "end_year": "Present",
+    "composers": [
+        "Calixa Lavallée"
+    ],
+    "link": "https://nationalanthems.info/ca.htm",
+    "music_path": "data/music/Canada.mp3"
+}

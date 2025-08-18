@@ -1,0 +1,14 @@
+{
+    "country": "Moldova",
+    "anthem_names": [
+        "“Limba noastră” (Moldovan)",
+        "“Our Tongue” (English translation)"
+    ],
+    "start_year": "1994",
+    "end_year": "Present",
+    "composers": [
+        "Alexandru Cristea"
+    ],
+    "link": "https://nationalanthems.info/md.htm",
+    "music_path": "data/music/Moldova.mp3"
+}

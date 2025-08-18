@@ -1,0 +1,14 @@
+{
+    "country": "Slovenia",
+    "anthem_names": [
+        "“Zdravljica” (Slovenian)",
+        "“A Toast” (English translation)"
+    ],
+    "start_year": "1989",
+    "end_year": "Present",
+    "composers": [
+        "Stanko Premrl"
+    ],
+    "link": "https://nationalanthems.info/si.htm",
+    "music_path": "data/music/Slovenia.mp3"
+}

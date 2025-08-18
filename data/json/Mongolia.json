@@ -1,0 +1,16 @@
+{
+    "country": "Mongolia",
+    "anthem_names": [
+        "“Монгол улсын төрийн дуулал” (Mongolian (Cyrillic script))",
+        "“Mongol ulsyn töriin duulal” (Mongolian (Latin script))",
+        "“National Anthem of Mongolia” (English translation)"
+    ],
+    "start_year": "1950",
+    "end_year": "Present",
+    "composers": [
+        "Билэгийн Дамдинсүрэн (Bilegiin Damdinsüren)",
+        "Лувсанжамбын Мөрдорж (Luvsanjambyn Mördorj)"
+    ],
+    "link": "https://nationalanthems.info/mn.htm",
+    "music_path": "data/music/Mongolia.mp3"
+}

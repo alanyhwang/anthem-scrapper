@@ -1,0 +1,14 @@
+{
+    "country": "Saarland",
+    "anthem_names": [
+        "“Saarlied” (German)",
+        "“The Saar Song” (English translation)"
+    ],
+    "start_year": "1950",
+    "end_year": "Present",
+    "composers": [
+        "Karl Hogrebe"
+    ],
+    "link": "https://nationalanthems.info/sar.htm",
+    "music_path": "data/music/Saarland.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Estonia",
+    "anthem_names": [
+        "“Mu isamaa, mu õnn ja rõõm” (Estonian)",
+        "“My Native Land, My Pride and Joy” (English translation)"
+    ],
+    "start_year": "1869",
+    "end_year": "Present",
+    "composers": [
+        "Friedrich Pacius"
+    ],
+    "link": "https://nationalanthems.info/ee.htm",
+    "music_path": "data/music/Estonia.mp3"
+}

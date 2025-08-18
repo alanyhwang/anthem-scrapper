@@ -1,0 +1,15 @@
+{
+    "country": "Brunei",
+    "anthem_names": [
+        "“لله فليهاراكن سلطن” (Malay (Jawi script))",
+        "“Allah Peliharakan Sultan” (Malay (Romanization))",
+        "“God Bless His Majesty” (English translation)"
+    ],
+    "start_year": "1951",
+    "end_year": "Present",
+    "composers": [
+        "Awang Haji Besar bin Sagap"
+    ],
+    "link": "https://nationalanthems.info/bn.htm",
+    "music_path": "data/music/Brunei.mp3"
+}

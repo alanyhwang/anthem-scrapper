@@ -1,0 +1,16 @@
+{
+    "country": "Faroe Islands",
+    "anthem_names": [
+        "“Mítt alfagra land” (Faroese)",
+        "“My Fairest Land” (English translation)",
+        "“Tú alfagra land mítt” (unofficial title (Faroese))",
+        "“Thou Fairest Land of Mine” (unofficial title (English translation))"
+    ],
+    "start_year": "1948",
+    "end_year": "Present",
+    "composers": [
+        "Peter Alberg"
+    ],
+    "link": "https://nationalanthems.info/fo.htm",
+    "music_path": "data/music/Faroe_Islands.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Vietnam",
+    "anthem_names": [
+        "“Tiến quân ca” (Vietnamese)",
+        "“The Marching Song” (English translation)"
+    ],
+    "start_year": "1945",
+    "end_year": "Present",
+    "composers": [
+        "Nguyen Văn Cao"
+    ],
+    "link": "https://nationalanthems.info/vn.htm",
+    "music_path": "data/music/Vietnam.mp3"
+}

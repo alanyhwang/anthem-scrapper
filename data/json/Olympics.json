@@ -1,0 +1,15 @@
+{
+    "country": "Olympics",
+    "anthem_names": [
+        "“Ολυμπιακός Ύμνος” (Greek (Greek script))",
+        "“Olympiakós Ýmnos” (Greek (Romanization))",
+        "“Olympic Hymn” (English translation)"
+    ],
+    "start_year": "Unknown",
+    "end_year": "Present",
+    "composers": [
+        "Κωστής Παλαμάς (Kostis Palamas)"
+    ],
+    "link": "https://nationalanthems.info/oly.htm",
+    "music_path": "data/music/Olympics.mp3"
+}

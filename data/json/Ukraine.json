@@ -1,0 +1,15 @@
+{
+    "country": "Ukraine",
+    "anthem_names": [
+        "“Ще не вмерла України” (Ukrainian (Cyrillic script))",
+        "“Sche ne vmerla Ukrainy” (Ukrainian (Romanization))",
+        "“Ukraine’s Glory Hasn’t Perished” (English translation)"
+    ],
+    "start_year": "1991",
+    "end_year": "Present",
+    "composers": [
+        "Михайло Вербицький (Mykhailo Verbytskyi)"
+    ],
+    "link": "https://nationalanthems.info/ua.htm",
+    "music_path": "data/music/Ukraine.mp3"
+}

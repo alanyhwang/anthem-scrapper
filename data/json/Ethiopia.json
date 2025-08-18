@@ -1,0 +1,15 @@
+{
+    "country": "Ethiopia",
+    "anthem_names": [
+        "“ወደፊት ገስግሺ ውድ እናት ኢትዮጵያ” (Amharic (Ge’ez script))",
+        "“Whedefit Gesgeshi Woude Henate Ethiopia” (Amharic (Romanization)",
+        "“March Forward, Dear Mother Ethiopia” (English translation)"
+    ],
+    "start_year": "1992",
+    "end_year": "Present",
+    "composers": [
+        "Solomon Lulu"
+    ],
+    "link": "https://nationalanthems.info/et.htm",
+    "music_path": "data/music/Ethiopia.mp3"
+}

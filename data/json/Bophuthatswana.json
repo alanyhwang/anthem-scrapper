@@ -1,0 +1,15 @@
+{
+    "country": "Bophuthatswana",
+    "anthem_names": [
+        "“Lefatshe leno la bo-rrarona” (Setswana)",
+        "“This Land of Our Forefathers” (English translation)"
+    ],
+    "start_year": "1977",
+    "end_year": "Present",
+    "composers": [
+        "E.B. Mathibe",
+        "J.J. Loots"
+    ],
+    "link": "https://nationalanthems.info/bpt.htm",
+    "music_path": "data/music/Bophuthatswana.mp3"
+}

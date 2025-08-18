@@ -1,0 +1,16 @@
+{
+    "country": "Germany",
+    "anthem_names": [
+        "“Deutschlandlied” (German)",
+        "“Song of Germany” (English translation)",
+        "“Lied der Deutschen” (alternate title (German))",
+        "“Song of the Germans” (alternate title (English translation))"
+    ],
+    "start_year": "1922",
+    "end_year": "Present",
+    "composers": [
+        "Joseph Haydn"
+    ],
+    "link": "https://nationalanthems.info/de.htm",
+    "music_path": "data/music/Germany.mp3"
+}

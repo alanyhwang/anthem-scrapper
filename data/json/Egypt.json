@@ -1,0 +1,15 @@
+{
+    "country": "Egypt",
+    "anthem_names": [
+        "“بلادي بلادي بلادي” (Arabic (Arabic script))",
+        "“Bilady, Bilady, Bilady” (Arabic (Romanization))",
+        "“My Homeland, My Homeland, My Homeland” (English translation)"
+    ],
+    "start_year": "1979",
+    "end_year": "Present",
+    "composers": [
+        "سيد درويش‎ (Sayed Darwish)"
+    ],
+    "link": "https://nationalanthems.info/eg.htm",
+    "music_path": "data/music/Egypt.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Sweden (national anthem)",
+    "anthem_names": [
+        "“Du Gamla, Du Fria” (Swedish)",
+        "“Thou Ancient, Thou Free” (English)"
+    ],
+    "start_year": "1893",
+    "end_year": "Present",
+    "composers": [
+        "traditional"
+    ],
+    "link": "https://nationalanthems.info/se.htm",
+    "music_path": "data/music/Sweden_(national_anthem).mp3"
+}

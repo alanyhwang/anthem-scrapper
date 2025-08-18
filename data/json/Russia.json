@@ -1,0 +1,15 @@
+{
+    "country": "Russia",
+    "anthem_names": [
+        "“Государственный гимн Российской Федерации” (Russian (Cyrillic script))",
+        "“Gosudarstvenny Gimn Rossiyskoy Federatsii”  (Russian (Romanization))",
+        "“National Anthem of the Russian Federation” (English translation)"
+    ],
+    "start_year": "2000",
+    "end_year": "Present",
+    "composers": [
+        "Александр Васильевич Александров (Alexandr Vasilievich Alexandrov)"
+    ],
+    "link": "https://nationalanthems.info/ru.htm",
+    "music_path": "data/music/Russia.mp3"
+}

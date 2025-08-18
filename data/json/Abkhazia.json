@@ -1,0 +1,15 @@
+{
+    "country": "Abkhazia",
+    "anthem_names": [
+        "“Аиааира” (Abkhaz (Cyrillic script))",
+        "“Aiaaira” (Abkhaz (Latin script))",
+        "“Victory” (English translation)"
+    ],
+    "start_year": "2007",
+    "end_year": "Present",
+    "composers": [
+        "Валери Ҷкадуа (Valera Çkaduwa)"
+    ],
+    "link": "https://nationalanthems.info/abk.htm",
+    "music_path": "data/music/Abkhazia.mp3"
+}

@@ -1,0 +1,15 @@
+{
+    "country": "Central African Republic",
+    "anthem_names": [
+        "“La Renaissance” (French)",
+        "“E Zingo” (Sango)",
+        "“The Renaissance” (English translation (of French))"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "Herbert Pepper"
+    ],
+    "link": "https://nationalanthems.info/cf.htm",
+    "music_path": "data/music/Central_African_Republic.mp3"
+}

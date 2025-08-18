@@ -1,0 +1,14 @@
+{
+    "country": "Martinique",
+    "anthem_names": [
+        "“Ansanm” (Antillean Creole)",
+        "“Together” (English translation)"
+    ],
+    "start_year": "2023",
+    "end_year": "Present",
+    "composers": [
+        "unknown"
+    ],
+    "link": "https://nationalanthems.info/mq.htm",
+    "music_path": "data/music/Martinique.mp3"
+}

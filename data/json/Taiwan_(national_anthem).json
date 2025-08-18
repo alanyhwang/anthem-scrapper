@@ -1,0 +1,18 @@
+{
+    "country": "Taiwan (national anthem)",
+    "anthem_names": [
+        "“中華民國國歌” (Chinese (traditional Chinese script))",
+        "“Zhōnghuá Míngúo gúogē” (Chinese (Pinyin Romanization))",
+        "“National Anthem of the Republic of China” (English translation)",
+        "“三民主義” (unofficial title (Chinese (traditional Chinese script)))",
+        "“San Min Chu I” (unofficial title (Chinese (Pinyin Romanization)))",
+        "“The Three Principles of the People” (unofficial title (English translation))"
+    ],
+    "start_year": "1930",
+    "end_year": "Present",
+    "composers": [
+        "程懋筠 (Chéng Màoyún)"
+    ],
+    "link": "https://nationalanthems.info/tw.htm",
+    "music_path": "data/music/Taiwan_(national_anthem).mp3"
+}

@@ -1,0 +1,15 @@
+{
+    "country": "Europe",
+    "anthem_names": [
+        "“European Anthem” (English)",
+        "“Anthem of Europe” (unofficial title (English))"
+    ],
+    "start_year": "1972",
+    "end_year": "Present",
+    "composers": [
+        "Ludwig von Beethoven",
+        "Herbert von Karajan (arranger)"
+    ],
+    "link": "https://nationalanthems.info/eu.htm",
+    "music_path": "data/music/Europe.mp3"
+}

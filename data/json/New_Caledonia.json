@@ -1,0 +1,14 @@
+{
+    "country": "New Caledonia",
+    "anthem_names": [
+        "“Soyons unis, devenons frères”  (French)",
+        "“Let us be united, Let us become brothers” (English translation)"
+    ],
+    "start_year": "2008",
+    "end_year": "Present",
+    "composers": [
+        "“Chorale Melodia”"
+    ],
+    "link": "https://nationalanthems.info/nc.htm",
+    "music_path": "data/music/New_Caledonia.mp3"
+}

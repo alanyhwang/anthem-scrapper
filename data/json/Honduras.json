@@ -1,0 +1,16 @@
+{
+    "country": "Honduras",
+    "anthem_names": [
+        "“Himno Nacional de Honduras” (Spanish)",
+        "“National Anthem of Honduras” (English translation)",
+        "“Tu bandera es un lampo de cielo” (unofficial title (Spanish))",
+        "“Your Flag Is A Heavenly Light” (unofficial title (English translation))"
+    ],
+    "start_year": "1915",
+    "end_year": "Present",
+    "composers": [
+        "Carlos Hartling"
+    ],
+    "link": "https://nationalanthems.info/hn.htm",
+    "music_path": "data/music/Honduras.mp3"
+}

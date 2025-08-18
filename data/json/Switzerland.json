@@ -1,0 +1,17 @@
+{
+    "country": "Switzerland",
+    "anthem_names": [
+        "“Schweizerpsalm” (German)",
+        "“Cantique suisse” (French)",
+        "“Salmo svizzero” (Italian)",
+        "“Psalm svizzer” (Romansch)",
+        "“Swiss Psalm” (English translation)"
+    ],
+    "start_year": "1961",
+    "end_year": "Present",
+    "composers": [
+        "Alberik Zwyssig"
+    ],
+    "link": "https://nationalanthems.info/ch.htm",
+    "music_path": "data/music/Switzerland.mp3"
+}

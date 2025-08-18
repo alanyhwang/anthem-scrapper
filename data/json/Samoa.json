@@ -1,0 +1,16 @@
+{
+    "country": "Samoa",
+    "anthem_names": [
+        "“O le Fu’a o le Sa’olotoga o Samoa” (Samoan)",
+        "“The Banner of Freedom” (English)",
+        "“Samoa Tula’i” (alternate title (Samoan))",
+        "“Samoa Arise” (alternate title (English translation))"
+    ],
+    "start_year": "1962",
+    "end_year": "Present",
+    "composers": [
+        "Sauni Iiga Kuresa"
+    ],
+    "link": "https://nationalanthems.info/ws.htm",
+    "music_path": "data/music/Samoa.mp3"
+}

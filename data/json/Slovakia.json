@@ -1,0 +1,14 @@
+{
+    "country": "Slovakia",
+    "anthem_names": [
+        "“Nad Tatrou sa blýska” (Slovak)",
+        "“Storm Over the Tatras” (English translation)"
+    ],
+    "start_year": "1993",
+    "end_year": "Present",
+    "composers": [
+        "traditional"
+    ],
+    "link": "https://nationalanthems.info/sk.htm",
+    "music_path": "data/music/Slovakia.mp3"
+}

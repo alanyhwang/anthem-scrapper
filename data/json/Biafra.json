@@ -1,0 +1,13 @@
+{
+    "country": "Biafra",
+    "anthem_names": [
+        "“Land of the Rising Sun”"
+    ],
+    "start_year": "1967",
+    "end_year": "Present",
+    "composers": [
+        "Jean Sibelius"
+    ],
+    "link": "https://nationalanthems.info/bia.htm",
+    "music_path": "data/music/Biafra.mp3"
+}

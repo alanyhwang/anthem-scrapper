@@ -1,0 +1,15 @@
+{
+    "country": "Scotland",
+    "anthem_names": [
+        "“Fhlùir na h-Alba” (Scottish Gaelic)",
+        "“Flouer o Scotland” (Scots)",
+        "“Flower of Scotland” (English)"
+    ],
+    "start_year": "1974",
+    "end_year": "Present",
+    "composers": [
+        "Roy Williamson"
+    ],
+    "link": "https://nationalanthems.info/sco.htm",
+    "music_path": "data/music/Scotland.mp3"
+}

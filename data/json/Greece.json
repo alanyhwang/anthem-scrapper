@@ -1,0 +1,15 @@
+{
+    "country": "Greece",
+    "anthem_names": [
+        "“Ύμνος εις την Ελευθερίαν” (Greek (Greek script))",
+        "“Ymnos eis tin Eleftherian” (Greek (Romanization))",
+        "“Hymn to Freedom” (English translation)"
+    ],
+    "start_year": "1864",
+    "end_year": "Present",
+    "composers": [
+        "Νικόλαος Μάντζαρος (Nikolaos Mantzaros)"
+    ],
+    "link": "https://nationalanthems.info/gr.htm",
+    "music_path": "data/music/Greece.mp3"
+}

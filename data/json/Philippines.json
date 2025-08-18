@@ -1,0 +1,14 @@
+{
+    "country": "Philippines",
+    "anthem_names": [
+        "“Lupang Hinirang” (Filipino)",
+        "“Chosen Land” (English translation)"
+    ],
+    "start_year": "1898",
+    "end_year": "Present",
+    "composers": [
+        "Julian Felipe"
+    ],
+    "link": "https://nationalanthems.info/ph.htm",
+    "music_path": "data/music/Philippines.mp3"
+}

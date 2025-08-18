@@ -1,0 +1,14 @@
+{
+    "country": "Somalia",
+    "anthem_names": [
+        "“Qolobaa Calankeed” (Somali)",
+        "“Every nation has its own flag” (English translation)"
+    ],
+    "start_year": "2012",
+    "end_year": "Present",
+    "composers": [
+        "Abdullahi Qarshe"
+    ],
+    "link": "https://nationalanthems.info/so.htm",
+    "music_path": "data/music/Somalia.mp3"
+}

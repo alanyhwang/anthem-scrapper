@@ -1,0 +1,16 @@
+{
+    "country": "Iceland",
+    "anthem_names": [
+        "“Lofsöngur” (Icelandic)",
+        "“Song of Praise” (English translation)",
+        "“Ó, Guð vors Lands” (alternate title (Icelandic))",
+        "“O, God of Our Land” (alternate title (English translation))"
+    ],
+    "start_year": "1918",
+    "end_year": "Present",
+    "composers": [
+        "Sveinbjörn Sveinbjörnsson"
+    ],
+    "link": "https://nationalanthems.info/is.htm",
+    "music_path": "data/music/Iceland.mp3"
+}

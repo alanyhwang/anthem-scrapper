@@ -1,0 +1,16 @@
+{
+    "country": "Uruguay",
+    "anthem_names": [
+        "“Himno Nacional” (Spanish)",
+        "“National Anthem of Uruguay” (English translation)",
+        "“Orientales, la Patria o la tumba!” (unofficial title (Spanish))",
+        "“Uruguayans, the Fatherland or Death!” (unofficial title (English translation))"
+    ],
+    "start_year": "1833",
+    "end_year": "Present",
+    "composers": [
+        "Francisco José Debali"
+    ],
+    "link": "https://nationalanthems.info/uy.htm",
+    "music_path": "data/music/Uruguay.mp3"
+}

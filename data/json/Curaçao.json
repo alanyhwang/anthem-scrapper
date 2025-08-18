@@ -1,0 +1,15 @@
+{
+    "country": "Curaçao",
+    "anthem_names": [
+        "“Himno di Kòrsou” (Papiamento)",
+        "“Anthem of Curaçao” (English translation)"
+    ],
+    "start_year": "1978",
+    "end_year": "Present",
+    "composers": [
+        "Frater Candidus Nowens",
+        "Errol “El Toro” Colina"
+    ],
+    "link": "https://nationalanthems.info/cw.htm",
+    "music_path": "data/music/Curaçao.mp3"
+}

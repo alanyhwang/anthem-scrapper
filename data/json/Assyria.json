@@ -1,0 +1,15 @@
+{
+    "country": "Assyria",
+    "anthem_names": [
+        "“ܪܘܡܪܡܐ” (Assyrian (Syriac script))",
+        "“Roomrama” (Assyrian (Romanization))",
+        "“Honour” (English translation)"
+    ],
+    "start_year": "Unknown",
+    "end_year": "Present",
+    "composers": [
+        "Nebu Juel Issabey"
+    ],
+    "link": "https://nationalanthems.info/asy.htm",
+    "music_path": "data/music/Assyria.mp3"
+}

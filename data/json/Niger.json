@@ -1,0 +1,14 @@
+{
+    "country": "Niger",
+    "anthem_names": [
+        "“L’Honneur de la Patrie” (French)",
+        "“The Honour of the Fatherland” (English translation)"
+    ],
+    "start_year": "2023",
+    "end_year": "Present",
+    "composers": [
+        "committee"
+    ],
+    "link": "https://nationalanthems.info/ne.htm",
+    "music_path": "data/music/Niger.mp3"
+}

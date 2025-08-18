@@ -1,0 +1,16 @@
+{
+    "country": "Frisia",
+    "anthem_names": [
+        "“It Fryske Folksliet” (Frisian)",
+        "“The Frisian Folksong” (English translation)",
+        "“De âlde Friezen” (original title (Frisian))",
+        "“The Old Frisians”(original title (English translation))"
+    ],
+    "start_year": "1875",
+    "end_year": "Present",
+    "composers": [
+        "Heinrich Christian Schnoor"
+    ],
+    "link": "https://nationalanthems.info/fri.htm",
+    "music_path": "data/music/Frisia.mp3"
+}

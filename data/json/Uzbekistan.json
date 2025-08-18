@@ -1,0 +1,14 @@
+{
+    "country": "Uzbekistan",
+    "anthem_names": [
+        "“O’zbekiston Respublikasining Davlat Madhiyasi” (Uzbek)",
+        "“National Anthem of the Republic of Uzbekistan” (English translation)"
+    ],
+    "start_year": "1992",
+    "end_year": "Present",
+    "composers": [
+        "Mutal Burhanov"
+    ],
+    "link": "https://nationalanthems.info/uz.htm",
+    "music_path": "data/music/Uzbekistan.mp3"
+}

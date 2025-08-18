@@ -1,0 +1,17 @@
+{
+    "country": "Sri Lanka",
+    "anthem_names": [
+        "“ශ්‍රී ලංකා මාතා” (Sinhala (Sinhala script))",
+        "“Sri Lanka Matha” (Sinhala (Romanization))",
+        "சிறீ லங்கா தாயே (Tamil (Tamil script))",
+        "Sri Lanka Thaayé (Tamil (Romanization))",
+        "“Mother Sri Lanka” (English translation (of Sinhala and Tamil))"
+    ],
+    "start_year": "1951",
+    "end_year": "Present",
+    "composers": [
+        "ආනන්ද සමරකෝන් (Ananda Samarkone)"
+    ],
+    "link": "https://nationalanthems.info/lk.htm",
+    "music_path": "data/music/Sri_Lanka.mp3"
+}

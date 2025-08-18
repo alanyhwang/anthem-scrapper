@@ -1,0 +1,13 @@
+{
+    "country": "Namibia",
+    "anthem_names": [
+        "“Namibia, Land of the Brave”"
+    ],
+    "start_year": "1991",
+    "end_year": "Present",
+    "composers": [
+        "Axali Doeseb"
+    ],
+    "link": "https://nationalanthems.info/na.htm",
+    "music_path": "data/music/Namibia.mp3"
+}

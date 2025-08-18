@@ -1,0 +1,14 @@
+{
+    "country": "Galicia",
+    "anthem_names": [
+        "“Os Pinos” (Galician)",
+        "“The Pine Trees” (English translation)"
+    ],
+    "start_year": "1907",
+    "end_year": "Present",
+    "composers": [
+        "Pasqual Veiga"
+    ],
+    "link": "https://nationalanthems.info/gal.htm",
+    "music_path": "data/music/Galicia.mp3"
+}

@@ -1,0 +1,15 @@
+{
+    "country": "Bangladesh",
+    "anthem_names": [
+        "“আমার সোনার বাংলা” (Bangla (Bengali script))",
+        "“Amar Shonar Bangla” (Bangla (Romanization))",
+        "“My Golden Bengal” (English translation)"
+    ],
+    "start_year": "1971",
+    "end_year": "Present",
+    "composers": [
+        "রবীন্দ্রনাথ ঠাকুর (Rabindranath Tagore)"
+    ],
+    "link": "https://nationalanthems.info/bd.htm",
+    "music_path": "data/music/Bangladesh.mp3"
+}

@@ -1,0 +1,15 @@
+{
+    "country": "Bahrain",
+    "anthem_names": [
+        "“بحريننا” (Arabic (Arabic script)",
+        "“Bahrainona” (Arabic (Romanization))",
+        "“Our Bahrain” (English translation)"
+    ],
+    "start_year": "1971",
+    "end_year": "Present",
+    "composers": [
+        "unknown"
+    ],
+    "link": "https://nationalanthems.info/bh.htm",
+    "music_path": "data/music/Bahrain.mp3"
+}

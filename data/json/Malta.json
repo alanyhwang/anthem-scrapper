@@ -1,0 +1,14 @@
+{
+    "country": "Malta",
+    "anthem_names": [
+        "“L-Innu Malti” (Maltese)",
+        "“The Hymn of Malta” (English translation)"
+    ],
+    "start_year": "1945",
+    "end_year": "Present",
+    "composers": [
+        "Robert Sammut"
+    ],
+    "link": "https://nationalanthems.info/mt.htm",
+    "music_path": "data/music/Malta.mp3"
+}

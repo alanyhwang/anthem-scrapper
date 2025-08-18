@@ -1,0 +1,15 @@
+{
+    "country": "Thailand (national anthem)",
+    "anthem_names": [
+        "“เพลงชาติไทย” (Thai (Thai script))",
+        "“Phleng Chat Thai” (Thai (Romanization))",
+        "“National Anthem of Thailand” (English translation)"
+    ],
+    "start_year": "1934",
+    "end_year": "Present",
+    "composers": [
+        "พระเจนดุริยางค์ (Phra Jenduriyang (Peter Feit))"
+    ],
+    "link": "https://nationalanthems.info/th.htm",
+    "music_path": "data/music/Thailand_(national_anthem).mp3"
+}

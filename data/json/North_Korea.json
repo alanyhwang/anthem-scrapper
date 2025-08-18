@@ -1,0 +1,18 @@
+{
+    "country": "North Korea",
+    "anthem_names": [
+        "“애국가” Korean (Chosŏn’gŭl (Han-geul) script)",
+        "“Aegukka” (Korean (McCune-Reischauer Romanization))",
+        "“Patriotic Song” (English translation)",
+        "“아침은 빛나라” (unofficial title (Korean (Chosŏn’gŭl (Han-geul) script)))",
+        "“Ach’imŭn pinnara” (unofficial title (Korean (McCune-Reischauer Romanization)))",
+        "“Let Morning Shine” (unofficial title (English translation))"
+    ],
+    "start_year": "1947",
+    "end_year": "Present",
+    "composers": [
+        "김원균 (Kim Wŏn’gyun)"
+    ],
+    "link": "https://nationalanthems.info/kp.htm",
+    "music_path": "data/music/North_Korea.mp3"
+}

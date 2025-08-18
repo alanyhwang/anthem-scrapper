@@ -1,0 +1,14 @@
+{
+    "country": "Turkey",
+    "anthem_names": [
+        "“İstiklâl Marşı” (Turkish)",
+        "“The March of Independence” (English translation)"
+    ],
+    "start_year": "1921",
+    "end_year": "Present",
+    "composers": [
+        "Zeki Üngör"
+    ],
+    "link": "https://nationalanthems.info/tr.htm",
+    "music_path": "data/music/Turkey.mp3"
+}

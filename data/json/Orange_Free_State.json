@@ -1,0 +1,14 @@
+{
+    "country": "Orange Free State",
+    "anthem_names": [
+        "“Volkslied van de Oranje Vrijstaat” (Dutch)",
+        "“National Anthem of the Orange Free State” (English translation)"
+    ],
+    "start_year": "1866",
+    "end_year": "Present",
+    "composers": [
+        "W.F.G. Nicolai"
+    ],
+    "link": "https://nationalanthems.info/ofs.htm",
+    "music_path": "data/music/Orange_Free_State.mp3"
+}

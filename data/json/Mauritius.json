@@ -1,0 +1,13 @@
+{
+    "country": "Mauritius",
+    "anthem_names": [
+        "“Motherland”"
+    ],
+    "start_year": "1968",
+    "end_year": "Present",
+    "composers": [
+        "Philippe Gentil"
+    ],
+    "link": "https://nationalanthems.info/mu.htm",
+    "music_path": "data/music/Mauritius.mp3"
+}

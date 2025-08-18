@@ -1,0 +1,14 @@
+{
+    "country": "Czechia",
+    "anthem_names": [
+        "“Kde domov můj?” (Czech)",
+        "“Where is My Home?” (English translation)"
+    ],
+    "start_year": "1993",
+    "end_year": "Present",
+    "composers": [
+        "Frantisek Jan Škroup"
+    ],
+    "link": "https://nationalanthems.info/cz.htm",
+    "music_path": "data/music/Czechia.mp3"
+}

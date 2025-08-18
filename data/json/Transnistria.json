@@ -1,0 +1,19 @@
+{
+    "country": "Transnistria",
+    "anthem_names": [
+        "“Мы славим тебя, Приднестровье” (Russian (Cyrillic script))",
+        "“My slavim tjebja, Pridnestrov’je” (Russian (Romanization))",
+        "“Слэвитэ сэ фий, Нистрене” (Moldovan (Cyrillic script))",
+        "“Slăvită să fii, Nistrene” (Moldovan (Latin script))",
+        "“Ми славимо тебе, Придністров’я” (Ukrainian (Cyrillic script))",
+        "“My slavymo tebe, Prydnistrov’ya” (Ukrainian (Romanization))",
+        "“We Glorify You, Transnistria” (English translation)"
+    ],
+    "start_year": "1990",
+    "end_year": "Present",
+    "composers": [
+        "Борис Александров (Boris Alexandrov)"
+    ],
+    "link": "https://nationalanthems.info/pmr.htm",
+    "music_path": "data/music/Transnistria.mp3"
+}

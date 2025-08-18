@@ -1,0 +1,14 @@
+{
+    "country": "Portugal",
+    "anthem_names": [
+        "“A Portuguesa” (Portuguese)",
+        "“The Song of the Portuguese” (English translation)"
+    ],
+    "start_year": "1910",
+    "end_year": "Present",
+    "composers": [
+        "Alfredo Keil"
+    ],
+    "link": "https://nationalanthems.info/pt.htm",
+    "music_path": "data/music/Portugal.mp3"
+}

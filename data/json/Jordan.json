@@ -1,0 +1,15 @@
+{
+    "country": "Jordan",
+    "anthem_names": [
+        "“السلام الملكي الأردني‎” (Arabic (Arabic script))",
+        "“As-salam al-malaki al-urdoni” (Arabic (Romanization))",
+        "“Long Live the King of Jordan” (English translation)"
+    ],
+    "start_year": "1946",
+    "end_year": "Present",
+    "composers": [
+        "عبد القادر التنير (Abdul-Qader Al-Taneer)"
+    ],
+    "link": "https://nationalanthems.info/jo.htm",
+    "music_path": "data/music/Jordan.mp3"
+}

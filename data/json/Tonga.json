@@ -1,0 +1,16 @@
+{
+    "country": "Tonga",
+    "anthem_names": [
+        "“Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga” (Tongan)",
+        "“Song of the King of the Tonga Islands” (English translation)",
+        "“Fasi Fakafonua” (unofficial title (Tongan))",
+        "“National Song” (unofficial title (English translation))"
+    ],
+    "start_year": "1874",
+    "end_year": "Present",
+    "composers": [
+        "Karl Gustavus Schmitt"
+    ],
+    "link": "https://nationalanthems.info/to.htm",
+    "music_path": "data/music/Tonga.mp3"
+}

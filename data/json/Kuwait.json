@@ -1,0 +1,15 @@
+{
+    "country": "Kuwait",
+    "anthem_names": [
+        "“النشيد الوطني” (Arabic (Arabic script))",
+        "“Al-Nasheed Al-Watani” (Arabic (Romanization))",
+        "“National Anthem” (English translation)"
+    ],
+    "start_year": "1978",
+    "end_year": "Present",
+    "composers": [
+        "إبراهيم الصولة (Ibrahim Nasir Al-Soula)"
+    ],
+    "link": "https://nationalanthems.info/kw.htm",
+    "music_path": "data/music/Kuwait.mp3"
+}

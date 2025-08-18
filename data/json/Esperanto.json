@@ -1,0 +1,14 @@
+{
+    "country": "Esperanto",
+    "anthem_names": [
+        "“La Espero” (Esperanto)",
+        "“The Hope” (English translation)"
+    ],
+    "start_year": "Unknown",
+    "end_year": "Present",
+    "composers": [
+        "Félicien de Ménil"
+    ],
+    "link": "https://nationalanthems.info/esn.htm",
+    "music_path": "data/music/Esperanto.mp3"
+}

@@ -1,0 +1,16 @@
+{
+    "country": "Kurdistan",
+    "anthem_names": [
+        "“ئهٔ ره‌قیب” (Kurdish (Soranî) (Soranî (Arabic) script))",
+        "“Ey Reqîb” (Kurdish (Soranî) (Hawar script))",
+        "“Hey Enemy” (English translation)",
+        "“Hey Guard” (alternate English translation)"
+    ],
+    "start_year": "1946",
+    "end_year": "Present",
+    "composers": [
+        "unknown"
+    ],
+    "link": "https://nationalanthems.info/krd.htm",
+    "music_path": "data/music/Kurdistan.mp3"
+}

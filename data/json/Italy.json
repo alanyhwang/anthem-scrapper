@@ -1,0 +1,18 @@
+{
+    "country": "Italy",
+    "anthem_names": [
+        "“Il Canto degli Italiani” (Italian)",
+        "“The Song of the Italians” (English translation)",
+        "“L’Inno di Mameli” (unofficial title (Italian))",
+        "“Mameli’s Hymn” (unofficial title (English translation))",
+        "“Fratelli D’Italia” (unofficial title (Italian))",
+        "“Brothers of Italy” (unofficial title (English translation))"
+    ],
+    "start_year": "1946",
+    "end_year": "Present",
+    "composers": [
+        "Michele Novaro"
+    ],
+    "link": "https://nationalanthems.info/it.htm",
+    "music_path": "data/music/Italy.mp3"
+}

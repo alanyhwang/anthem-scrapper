@@ -1,0 +1,14 @@
+{
+    "country": "Croatia",
+    "anthem_names": [
+        "“Lijepa naša domovino” (Croatian)",
+        "“Our Beautiful Homeland” (English translation)"
+    ],
+    "start_year": "1972",
+    "end_year": "Present",
+    "composers": [
+        "Josip Runjanin"
+    ],
+    "link": "https://nationalanthems.info/hr.htm",
+    "music_path": "data/music/Croatia.mp3"
+}

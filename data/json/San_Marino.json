@@ -1,0 +1,14 @@
+{
+    "country": "San Marino",
+    "anthem_names": [
+        "“Inno Nazionale della Repubblica” (Italian)",
+        "“National Anthem of the Republic” (English translation)"
+    ],
+    "start_year": "1894",
+    "end_year": "Present",
+    "composers": [
+        "Federico Consolo"
+    ],
+    "link": "https://nationalanthems.info/sm.htm",
+    "music_path": "data/music/San_Marino.mp3"
+}

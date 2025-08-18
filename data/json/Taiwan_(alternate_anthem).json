@@ -1,0 +1,18 @@
+{
+    "country": "Taiwan (alternate anthem)",
+    "anthem_names": [
+        "“中華民國國旗歌” (Chinese (traditional Chinese script))",
+        "“Zhōnghuá Míngúo Gúoqígē” (Chinese (Pinyin Romanization))",
+        "“National Flag Anthem of the Republic of China” (English translation)",
+        "“國旗歌” (unofficial title (Chinese (traditional Chinese script))",
+        "“Gúo qí gē” (unofficial title (Chinese (Pinyin Romanization))",
+        "“National Banner Song” (English translation)"
+    ],
+    "start_year": "1937",
+    "end_year": "Present",
+    "composers": [
+        "黃自 (Huáng Zì)"
+    ],
+    "link": "https://nationalanthems.info/tw_.htm",
+    "music_path": "data/music/Taiwan_(alternate_anthem).mp3"
+}

@@ -1,0 +1,16 @@
+{
+    "country": "Mexico",
+    "anthem_names": [
+        "“Himno Nacional Mexicano” (Spanish)",
+        "“National Anthem of Mexico” (English translation)",
+        "“Mexicanos, al grito de guerra” (unofficial title (Spanish))",
+        "“Mexicans, to the War Cry” (unofficial title (English translation))"
+    ],
+    "start_year": "1854",
+    "end_year": "Present",
+    "composers": [
+        "Jaime Nunó Roca"
+    ],
+    "link": "https://nationalanthems.info/mx.htm",
+    "music_path": "data/music/Mexico.mp3"
+}

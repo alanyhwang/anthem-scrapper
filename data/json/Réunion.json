@@ -1,0 +1,14 @@
+{
+    "country": "Réunion",
+    "anthem_names": [
+        "“P’tit fleur fanée”  (French)",
+        "“Little Faded Flower” (English translation)"
+    ],
+    "start_year": "1930",
+    "end_year": "Present",
+    "composers": [
+        "Jules Fossy"
+    ],
+    "link": "https://nationalanthems.info/re.htm",
+    "music_path": "data/music/Réunion.mp3"
+}

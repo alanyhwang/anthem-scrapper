@@ -1,0 +1,15 @@
+{
+    "country": "Côte d’Ivoire",
+    "anthem_names": [
+        "“L’Abidjanaise” (French)",
+        "“Song of Abidjan” (English translation)"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "Pierre Marie Coty",
+        "Pierre Michel Pango"
+    ],
+    "link": "http://www.nationalanthems.info/ci.htm",
+    "music_path": "data/music/Côte_d’Ivoire.mp3"
+}

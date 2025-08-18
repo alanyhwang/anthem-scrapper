@@ -1,0 +1,15 @@
+{
+    "country": "Crimea",
+    "anthem_names": [
+        "“Гимн Автономной Республики Крым” (Russian (Cyrillic script)",
+        "“Gimn Avtonomnoĭ Respubliki Krym” (Russian (Romanization))",
+        "“Hymn of the Autonomous Republic of Crimea” (English translation)"
+    ],
+    "start_year": "1992",
+    "end_year": "Present",
+    "composers": [
+        "Alemdar Karamanov"
+    ],
+    "link": "https://nationalanthems.info/cri.htm",
+    "music_path": "data/music/Crimea.mp3"
+}

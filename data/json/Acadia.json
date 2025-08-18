@@ -1,0 +1,14 @@
+{
+    "country": "Acadia",
+    "anthem_names": [
+        "“Ave, Maris Stella” (Latin)",
+        "“Hail, Star of the Ocean” (English translation)"
+    ],
+    "start_year": "1884",
+    "end_year": "Present",
+    "composers": [
+        "unknown"
+    ],
+    "link": "https://nationalanthems.info/aca.htm",
+    "music_path": "data/music/Acadia.mp3"
+}

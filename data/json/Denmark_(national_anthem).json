@@ -1,0 +1,14 @@
+{
+    "country": "Denmark (national anthem)",
+    "anthem_names": [
+        "“Der er et yndigt land” (Danish)",
+        "“There Is A Lovely Land” (English translation)"
+    ],
+    "start_year": "1844",
+    "end_year": "Present",
+    "composers": [
+        "Hans Ernst Krøyer"
+    ],
+    "link": "https://nationalanthems.info/dk.htm",
+    "music_path": "data/music/Denmark_(national_anthem).mp3"
+}

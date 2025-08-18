@@ -1,0 +1,16 @@
+{
+    "country": "Georgia",
+    "anthem_names": [
+        "“თავისუფლება”  (Georgian (Georgian script)",
+        "“Tavisupleba” (Georgian (Romanization)",
+        "“Liberty” (English translation)"
+    ],
+    "start_year": "2004",
+    "end_year": "Present",
+    "composers": [
+        "ზაქარია ფალიაშვილი (Zakaria Paliashvili)",
+        "adapted by იოსებ კეჭაყმაძე (Joseb Ketschakmadse)"
+    ],
+    "link": "https://nationalanthems.info/ge.htm",
+    "music_path": "data/music/Georgia.mp3"
+}

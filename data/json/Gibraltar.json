@@ -1,0 +1,13 @@
+{
+    "country": "Gibraltar",
+    "anthem_names": [
+        "“Gibraltar Anthem”"
+    ],
+    "start_year": "1994",
+    "end_year": "Present",
+    "composers": [
+        "Peter Emberley"
+    ],
+    "link": "https://nationalanthems.info/gi.htm",
+    "music_path": "data/music/Gibraltar.mp3"
+}

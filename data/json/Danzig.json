@@ -1,0 +1,14 @@
+{
+    "country": "Danzig",
+    "anthem_names": [
+        "“Für Danzig” (German)",
+        "“For Danzig” (English translation)"
+    ],
+    "start_year": "1920",
+    "end_year": "Present",
+    "composers": [
+        "Georg Göhler"
+    ],
+    "link": "https://nationalanthems.info/dnz.htm",
+    "music_path": "data/music/Danzig.mp3"
+}

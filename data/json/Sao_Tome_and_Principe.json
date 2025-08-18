@@ -1,0 +1,14 @@
+{
+    "country": "Sao Tome and Principe",
+    "anthem_names": [
+        "“Independência total” (Portuguese)",
+        "“Total Independence” (English translation)"
+    ],
+    "start_year": "1975",
+    "end_year": "Present",
+    "composers": [
+        "Manuel dos Santos Barreto de Sousa e Almeida"
+    ],
+    "link": "https://nationalanthems.info/st.htm",
+    "music_path": "data/music/Sao_Tome_and_Principe.mp3"
+}

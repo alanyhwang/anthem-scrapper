@@ -1,0 +1,14 @@
+{
+    "country": "Paraguay",
+    "anthem_names": [
+        "“Paraguayos, República o muerte!” (Spanish)",
+        "“Paraguayans, The Republic or Death!” (English translation)"
+    ],
+    "start_year": "1846",
+    "end_year": "Present",
+    "composers": [
+        "Remberto Giménez"
+    ],
+    "link": "https://nationalanthems.info/py.htm",
+    "music_path": "data/music/Paraguay.mp3"
+}

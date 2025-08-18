@@ -1,0 +1,14 @@
+{
+    "country": "Canary Islands",
+    "anthem_names": [
+        "“Himno de Canarias” (Spanish)",
+        "“Anthem of the Canary Islands” (English translation)"
+    ],
+    "start_year": "2003",
+    "end_year": "Present",
+    "composers": [
+        "Teobaldo Power y Lugo-Vina"
+    ],
+    "link": "https://nationalanthems.info/ic.htm",
+    "music_path": "data/music/Canary_Islands.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Vanuatu",
+    "anthem_names": [
+        "“Yumi, Yumi, Yumi” (Bislama)",
+        "“We, We, We” (English translation)"
+    ],
+    "start_year": "1980",
+    "end_year": "Present",
+    "composers": [
+        "François Vincent Ayssav"
+    ],
+    "link": "https://nationalanthems.info/vu.htm",
+    "music_path": "data/music/Vanuatu.mp3"
+}

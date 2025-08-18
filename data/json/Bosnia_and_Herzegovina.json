@@ -1,0 +1,15 @@
+{
+    "country": "Bosnia and Herzegovina",
+    "anthem_names": [
+        "“Državna himna Bosne i Hercegovine” (Bosnian (Latin alphabet))",
+        "“Државна химна Босне и Херцеговине” (Bosnian (Cyrillic alphabet))",
+        "“The National Anthem of Bosnia and Herzegovina” (English translation)"
+    ],
+    "start_year": "1999",
+    "end_year": "Present",
+    "composers": [
+        "Dušan Šestić"
+    ],
+    "link": "https://nationalanthems.info/ba.htm",
+    "music_path": "data/music/Bosnia_and_Herzegovina.mp3"
+}

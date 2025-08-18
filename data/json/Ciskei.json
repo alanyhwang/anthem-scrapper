@@ -1,0 +1,14 @@
+{
+    "country": "Ciskei",
+    "anthem_names": [
+        "“Nkosi Sikelel’ iAfrika” (Xhosa)",
+        "“God Bless Africa” (English translation)"
+    ],
+    "start_year": "1981",
+    "end_year": "Present",
+    "composers": [
+        "Enoch Sontonga"
+    ],
+    "link": "https://nationalanthems.info/cis.htm",
+    "music_path": "data/music/Ciskei.mp3"
+}

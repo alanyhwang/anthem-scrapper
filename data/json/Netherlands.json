@@ -1,0 +1,16 @@
+{
+    "country": "Netherlands",
+    "anthem_names": [
+        "“Het Wilhelmus” (Dutch)",
+        "“The William” (English translation)",
+        "“Wilhelmus van Nassouwe” (alternate title (Dutch))",
+        "“William of Nassau” (alternate title (English translation))"
+    ],
+    "start_year": "1932",
+    "end_year": "Present",
+    "composers": [
+        "unknown"
+    ],
+    "link": "https://nationalanthems.info/nl.htm",
+    "music_path": "data/music/Netherlands.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Gabon",
+    "anthem_names": [
+        "“La Concorde” (French)",
+        "“The Concord” (English translation)"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "Georges Aleka Damas"
+    ],
+    "link": "https://nationalanthems.info/ga.htm",
+    "music_path": "data/music/Gabon.mp3"
+}

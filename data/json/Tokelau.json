@@ -1,0 +1,14 @@
+{
+    "country": "Tokelau",
+    "anthem_names": [
+        "“Viki O Tokelau” (Tokelauan)",
+        "“Anthem of Tokelau” (English translation)"
+    ],
+    "start_year": "2012",
+    "end_year": "Present",
+    "composers": [
+        "Eric Lemuelu Falima"
+    ],
+    "link": "https://nationalanthems.info/tk.htm",
+    "music_path": "data/music/Tokelau.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Lithuania",
+    "anthem_names": [
+        "“Tautiška giesmė” (Lithuanian)",
+        "“The National Song” (English translation)"
+    ],
+    "start_year": "1918",
+    "end_year": "Present",
+    "composers": [
+        "Vincas Kudirka"
+    ],
+    "link": "https://nationalanthems.info/lt.htm",
+    "music_path": "data/music/Lithuania.mp3"
+}

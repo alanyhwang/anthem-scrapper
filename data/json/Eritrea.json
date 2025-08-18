@@ -1,0 +1,16 @@
+{
+    "country": "Eritrea",
+    "anthem_names": [
+        "“ኤርትራ ኤርትራ ኤርትራ” (Tigrinya (Ethopic script))",
+        "“Ertra, Ertra, Ertra” (Tigrinya (Romanization))",
+        "“Eritrea, Eritrea, Eritrea” (English translation)"
+    ],
+    "start_year": "1993",
+    "end_year": "Present",
+    "composers": [
+        "Isaac Abraham Meharezgi",
+        "Aron Tekle Tesfatsion"
+    ],
+    "link": "https://nationalanthems.info/er.htm",
+    "music_path": "data/music/Eritrea.mp3"
+}

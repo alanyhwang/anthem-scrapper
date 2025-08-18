@@ -1,0 +1,16 @@
+{
+    "country": "Cameroon",
+    "anthem_names": [
+        "“Ô Cameroun, Berceau de nos Ancêtres” (French)",
+        "“O Cameroon, Cradle of our Forefathers” (English)",
+        "“Chant de Ralliement” (unofficial title (French))",
+        "“The Rallying Song” (unofficial title (English translation))"
+    ],
+    "start_year": "1957",
+    "end_year": "Present",
+    "composers": [
+        "René Djam Afame"
+    ],
+    "link": "https://nationalanthems.info/cm.htm",
+    "music_path": "data/music/Cameroon.mp3"
+}

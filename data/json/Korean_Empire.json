@@ -1,0 +1,15 @@
+{
+    "country": "Korean Empire",
+    "anthem_names": [
+        "“애국가” (Korean (Han-geul script))",
+        "“Aegukga” (Korean (Yale Romanization))",
+        "“Patriotic Song” (English translation)"
+    ],
+    "start_year": "1902",
+    "end_year": "Present",
+    "composers": [
+        "Franz von Eckert"
+    ],
+    "link": "https://nationalanthems.info/kor.htm",
+    "music_path": "data/music/Korean_Empire.mp3"
+}

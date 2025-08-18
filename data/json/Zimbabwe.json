@@ -1,0 +1,15 @@
+{
+    "country": "Zimbabwe",
+    "anthem_names": [
+        "“Kalibusiswe Ilizwe leZimbabwe” (Ndebele)",
+        "“Simudzai Mureza WeZimbabwe” (Shona)",
+        "“Blessed Be The Land of Zimbabwe” (English)"
+    ],
+    "start_year": "1994",
+    "end_year": "Present",
+    "composers": [
+        "Fred Lecture Changundega"
+    ],
+    "link": "https://nationalanthems.info/zw.htm",
+    "music_path": "data/music/Zimbabwe.mp3"
+}

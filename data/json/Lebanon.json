@@ -1,0 +1,17 @@
+{
+    "country": "Lebanon",
+    "anthem_names": [
+        "“النشيد الوطني اللبناني” (Arabic (Arabic script))",
+        "“Lebanese National Anthem” (English translation)",
+        "“كلّنا للوطن” (unofficial title (Arabic (Arabic script)))",
+        "“Kulluna lil-watan” (unofficial title (Arabic (Romanization)))",
+        "“All Of Us, For Our Country!” (unofficial title (English translation))"
+    ],
+    "start_year": "1927",
+    "end_year": "Present",
+    "composers": [
+        "واضح صبرا‎ (Wadih Sabra)"
+    ],
+    "link": "https://nationalanthems.info/lb.htm",
+    "music_path": "data/music/Lebanon.mp3"
+}

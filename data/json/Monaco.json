@@ -1,0 +1,16 @@
+{
+    "country": "Monaco",
+    "anthem_names": [
+        "“A Marcia de Muneghu” (Monegasque)",
+        "“The March of Monaco” (English translation)",
+        "“Inu nacionale ” (alternate title (Monegasque))",
+        "“National Anthem” (alternate title (English translation))"
+    ],
+    "start_year": "1867",
+    "end_year": "Present",
+    "composers": [
+        "Charles Albrecht"
+    ],
+    "link": "https://nationalanthems.info/mc.htm",
+    "music_path": "data/music/Monaco.mp3"
+}

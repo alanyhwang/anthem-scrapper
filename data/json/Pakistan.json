@@ -1,0 +1,15 @@
+{
+    "country": "Pakistan",
+    "anthem_names": [
+        "“قومی ترانہ” (Urdu (Nastaʿlīq script))",
+        "“Qaumī Tarāna” (Urdu (Romanization))",
+        "“National Anthem” (English translation)"
+    ],
+    "start_year": "1954",
+    "end_year": "Present",
+    "composers": [
+        "احمد غلام چھاگلہ (Ahmed Ghulamali Chagla)"
+    ],
+    "link": "https://nationalanthems.info/pk.htm",
+    "music_path": "data/music/Pakistan.mp3"
+}

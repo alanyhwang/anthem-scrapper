@@ -1,0 +1,14 @@
+{
+    "country": "Andorra",
+    "anthem_names": [
+        "“El Gran Carlemany” (Catalan)",
+        "“The Great Charlemagne” (English translation)"
+    ],
+    "start_year": "1921",
+    "end_year": "Present",
+    "composers": [
+        "Enric Marfany Bons"
+    ],
+    "link": "https://nationalanthems.info/ad.htm",
+    "music_path": "data/music/Andorra.mp3"
+}

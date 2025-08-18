@@ -1,0 +1,14 @@
+{
+    "country": "Luxembourg (national anthem)",
+    "anthem_names": [
+        "“Ons Heemecht” (Luxembourgish)",
+        "“Our Motherland” (English translation)"
+    ],
+    "start_year": "1895",
+    "end_year": "Present",
+    "composers": [
+        "Jean-Antoine Zinnen"
+    ],
+    "link": "https://nationalanthems.info/lu.htm",
+    "music_path": "data/music/Luxembourg_(national_anthem).mp3"
+}

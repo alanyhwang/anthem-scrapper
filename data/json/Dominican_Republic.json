@@ -1,0 +1,16 @@
+{
+    "country": "Dominican Republic",
+    "anthem_names": [
+        "“Himno Nacional” (Spanish)",
+        "“National Anthem” (English translation)",
+        "“Quisqueyanos valientes” (unofficial title (Spanish)",
+        "“Valiant Sons of Quisqueye” (English translation)"
+    ],
+    "start_year": "1897",
+    "end_year": "Present",
+    "composers": [
+        "José Reyés"
+    ],
+    "link": "https://nationalanthems.info/do.htm",
+    "music_path": "data/music/Dominican_Republic.mp3"
+}

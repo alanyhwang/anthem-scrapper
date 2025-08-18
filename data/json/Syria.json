@@ -1,0 +1,16 @@
+{
+    "country": "Syria",
+    "anthem_names": [
+        "“حُمَاةَ الدِّيَار” (Arabic (Arabic script))",
+        "“Ħumāt ad-Diyār” (Arabic (Romanization))",
+        "“Guardians of the Homeland” (English translation)"
+    ],
+    "start_year": "1936",
+    "end_year": "Present",
+    "composers": [
+        "محمد سليم فليفل (Mohammad Salim Flayfel)",
+        "أحمد سليم فليفل (Ahmad Salim Flayfel)"
+    ],
+    "link": "https://nationalanthems.info/sy.htm",
+    "music_path": "data/music/Syria.mp3"
+}

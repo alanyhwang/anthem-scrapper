@@ -1,0 +1,13 @@
+{
+    "country": "Liberia",
+    "anthem_names": [
+        "“All Hail, Liberia Hail!”"
+    ],
+    "start_year": "1847",
+    "end_year": "Present",
+    "composers": [
+        "Olmstead Luca"
+    ],
+    "link": "https://nationalanthems.info/lr.htm",
+    "music_path": "data/music/Liberia.mp3"
+}

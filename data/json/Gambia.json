@@ -1,0 +1,14 @@
+{
+    "country": "Gambia",
+    "anthem_names": [
+        "“For The Gambia, Our Homeland”"
+    ],
+    "start_year": "1965",
+    "end_year": "Present",
+    "composers": [
+        "traditional",
+        "adapted by Jeremy Frederic Howe"
+    ],
+    "link": "https://nationalanthems.info/gm.htm",
+    "music_path": "data/music/Gambia.mp3"
+}

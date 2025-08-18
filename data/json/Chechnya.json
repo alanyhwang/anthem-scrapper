@@ -1,0 +1,16 @@
+{
+    "country": "Chechnya",
+    "anthem_names": [
+        "“Шатлакхан Илли” (Chechen (Cyrillic script))",
+        "“The Shatlak’s Song” (English translation)",
+        "“Гимн Чеченской Республики” (alternate title (Chechen (Cyrillic script)))",
+        "“Anthem of the Chechen Republic” (alternate title (English translation))"
+    ],
+    "start_year": "2004",
+    "end_year": "Present",
+    "composers": [
+        "Umar Biksultanov"
+    ],
+    "link": "https://nationalanthems.info/che.htm",
+    "music_path": "data/music/Chechnya.mp3"
+}

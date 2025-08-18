@@ -1,0 +1,15 @@
+{
+    "country": "Guam",
+    "anthem_names": [
+        "“Guam Hymn” (English)",
+        "“Fanohge Chamoru” (Chamorro)",
+        "“Stand Ye Guamanians” (English translation)"
+    ],
+    "start_year": "1952",
+    "end_year": "Present",
+    "composers": [
+        "Ramon Manalisay Sablan"
+    ],
+    "link": "https://nationalanthems.info/gu.htm",
+    "music_path": "data/music/Guam.mp3"
+}

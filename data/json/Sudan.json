@@ -1,0 +1,15 @@
+{
+    "country": "Sudan",
+    "anthem_names": [
+        "“نحن جند لله جند الوطن” (Arabic (Arabic script))",
+        "“Nahnu Djundulla Djundulwatan” (Arabic (Romanization))",
+        "“We Are the Army of God and of Our Land” (English translation)"
+    ],
+    "start_year": "1956",
+    "end_year": "Present",
+    "composers": [
+        "أحمد مرجان (Ahmad Murjan)"
+    ],
+    "link": "https://nationalanthems.info/sd.htm",
+    "music_path": "data/music/Sudan.mp3"
+}

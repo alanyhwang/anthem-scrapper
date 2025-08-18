@@ -1,0 +1,18 @@
+{
+    "country": "Poland",
+    "anthem_names": [
+        "“Mazurek Dąbrowskiego” (Polish)",
+        "“Dabrowski’s Mazurka” (English translation)",
+        "“Jeszcze Polska nie zginęła” (unofficial title (Polish))",
+        "“Poland Has Not Yet Perished” (unofficial title (English translation))",
+        "“Pieśń Legionów Polskich we Włoszech” (unofficial title (Polish))",
+        "“Song of the Polish Legions in Italy” (unofficial title (English translation))"
+    ],
+    "start_year": "1927",
+    "end_year": "Present",
+    "composers": [
+        "traditional"
+    ],
+    "link": "https://nationalanthems.info/pl.htm",
+    "music_path": "data/music/Poland.mp3"
+}

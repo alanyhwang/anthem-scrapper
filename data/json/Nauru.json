@@ -1,0 +1,15 @@
+{
+    "country": "Nauru",
+    "anthem_names": [
+        "“Song of Nauru” (English)",
+        "“Nauru Bwiema” (Nauruan)",
+        "“Nauru, Our Homeland” (English translation)"
+    ],
+    "start_year": "1968",
+    "end_year": "Present",
+    "composers": [
+        "Laurence Henry Hicks"
+    ],
+    "link": "https://nationalanthems.info/nr.htm",
+    "music_path": "data/music/Nauru.mp3"
+}

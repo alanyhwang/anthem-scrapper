@@ -1,0 +1,14 @@
+{
+    "country": "Timor-Leste",
+    "anthem_names": [
+        "“Pátria” (Portuguese)",
+        "“Fatherland” (English translation)"
+    ],
+    "start_year": "1975",
+    "end_year": "Present",
+    "composers": [
+        "Afonso de Araujo"
+    ],
+    "link": "http://www.nationalanthems.info/tl.htm",
+    "music_path": "data/music/Timor-Leste.mp3"
+}

@@ -1,0 +1,13 @@
+{
+    "country": "United States",
+    "anthem_names": [
+        "“The Star Spangled Banner”"
+    ],
+    "start_year": "1931",
+    "end_year": "Present",
+    "composers": [
+        "John Stafford Smith"
+    ],
+    "link": "https://nationalanthems.info/us.htm",
+    "music_path": "data/music/United_States.mp3"
+}

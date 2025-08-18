@@ -1,8 +1,10 @@
-from time import time
+import json
+from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
-import re
+from tqdm import tqdm
 from helpers import *
+from csv_helpers import write_to_csv
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -12,6 +14,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 BASE_URL = "https://nationalanthems.info/"
+MUSIC_DIR = Path("data/music")
+DATA_DIR = Path("data/json")
 
 chrome_options = Options()
 chrome_options.add_argument("--disable-gpu")
@@ -22,35 +26,37 @@ chrome_options.add_argument(
     "Chrome/120.0.0.0 Safari/537.36"
 )
 driver = webdriver.Chrome(
-    service=Service(ChromeDriverManager().install()), 
-    options=chrome_options
+    service=Service(ChromeDriverManager().install()), options=chrome_options
 )
+
 
 def get_subpages():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/120.0.0.0 Safari/537.36"
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
     }
     resp = requests.get(BASE_URL, headers=headers)
     soup = BeautifulSoup(resp.text, "lxml")
 
     links = set()
-    for a in soup.find_all('a'):
-        href = a.get('href', '')
-        if href.endswith('.htm') and href not in links:
+    for a in soup.find_all("a"):
+        href = a.get("href", "")
+        if href.endswith(".htm") and href not in links:
             links.add(href)
-    
+
     return list(links)
 
-def write_links_to_file(links):
-    with open('data/links.txt', 'w') as file:
-        for link in links:
-            file.write(link + '\n')
+
+def save_to_json(data, country):
+    safe_country = country.replace(" ", "_")
+    json_file_path = DATA_DIR / f"{safe_country}.json"
+    with open(json_file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
 
 def scrape_page(link):
-    url = BASE_URL + link
-    driver.get(url)
+    driver.get(link)
     try:
         WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.ID, "mp3j_dlanchor_0"))
@@ -61,7 +67,7 @@ def scrape_page(link):
 
     html = driver.page_source
     soup = BeautifulSoup(html, "lxml")
-    
+
     country = get_country_title(soup)
     if title_has_year(country) or is_royal_anthem(country):
         return None
@@ -72,29 +78,30 @@ def scrape_page(link):
 
     [start_year, end_year] = get_years(soup)
 
-    print("Downloading music...")
     music_path = download_music(country, soup)
-    print("Music downloaded.")
 
     data = {
         "country": country,
         "anthem_names": anthem_names,
         "start_year": start_year,
         "end_year": end_year,
-        "composer": get_composer(soup),
-        "link": url,
-        "music_path": music_path
+        "composers": get_composers(soup),
+        "link": link,
+        "music_path": music_path,
     }
+
+    save_to_json(data, country)
 
     return data
 
 
 if __name__ == "__main__":
-    # pages = get_subpages()
+    pages = get_subpages()
 
-    link = "na.htm"
-    data = scrape_page(link)
-    print(data)
+    for page in tqdm(pages):
+        print(f"Processing {page}...")
+        data = scrape_page(page)
+        if data:
+            write_to_csv(data)
 
     driver.quit()
-    

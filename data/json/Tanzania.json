@@ -1,0 +1,14 @@
+{
+    "country": "Tanzania",
+    "anthem_names": [
+        "“Mungu ibariki Afrika” (Kiswahili)",
+        "“God Bless Africa” (English translation)"
+    ],
+    "start_year": "1961",
+    "end_year": "Present",
+    "composers": [
+        "Enoch Mankayi Sontonga"
+    ],
+    "link": "https://nationalanthems.info/tz.htm",
+    "music_path": "data/music/Tanzania.mp3"
+}

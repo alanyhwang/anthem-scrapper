@@ -1,0 +1,13 @@
+{
+    "country": "Northern Ireland",
+    "anthem_names": [
+        "“A Londonderry Air”"
+    ],
+    "start_year": "Unknown",
+    "end_year": "Present",
+    "composers": [
+        "traditional"
+    ],
+    "link": "https://nationalanthems.info/nie.htm",
+    "music_path": "data/music/Northern_Ireland.mp3"
+}

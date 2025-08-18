@@ -1,0 +1,14 @@
+{
+    "country": "Azerbaijan",
+    "anthem_names": [
+        "“Azərbaycan Marşı” (Azerbaijani)",
+        "“March of Azerbaijan (English translation)"
+    ],
+    "start_year": "1992",
+    "end_year": "Present",
+    "composers": [
+        "Uzeyir Hajibeyov"
+    ],
+    "link": "https://nationalanthems.info/az.htm",
+    "music_path": "data/music/Azerbaijan.mp3"
+}

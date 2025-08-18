@@ -1,0 +1,15 @@
+{
+    "country": "Nicaragua",
+    "anthem_names": [
+        "“Salve a ti, Nicaragua” (Spanish)",
+        "“Hail to thee, Nicaragua” (English translation)"
+    ],
+    "start_year": "1918",
+    "end_year": "Present",
+    "composers": [
+        "traditional",
+        "Luis Abraham Delgadillo (arranger)"
+    ],
+    "link": "https://nationalanthems.info/ni.htm",
+    "music_path": "data/music/Nicaragua.mp3"
+}

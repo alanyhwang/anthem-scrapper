@@ -1,0 +1,15 @@
+{
+    "country": "India",
+    "anthem_names": [
+        "“जन गण मन” (Hindi (Devanagari script))",
+        "“Jana-Gana-Mana” (Hindi (Romanization))",
+        "“Thou Art the Ruler of the Minds of All People” (English translation)"
+    ],
+    "start_year": "1950",
+    "end_year": "Present",
+    "composers": [
+        "রবীন্দ্রনাথ ঠাকুর (Rabindranath Tagore)"
+    ],
+    "link": "https://nationalanthems.info/in.htm",
+    "music_path": "data/music/India.mp3"
+}

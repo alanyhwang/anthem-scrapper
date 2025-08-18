@@ -1,0 +1,14 @@
+{
+    "country": "Haiti",
+    "anthem_names": [
+        "“La Dessalinienne” (French)",
+        "“The Dessalines Song” (English translation)"
+    ],
+    "start_year": "1904",
+    "end_year": "Present",
+    "composers": [
+        "Nicolas Geffrard"
+    ],
+    "link": "https://nationalanthems.info/ht.htm",
+    "music_path": "data/music/Haiti.mp3"
+}

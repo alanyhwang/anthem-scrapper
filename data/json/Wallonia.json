@@ -1,0 +1,14 @@
+{
+    "country": "Wallonia",
+    "anthem_names": [
+        "“Le Chant des Wallons” (French)",
+        "“The Song of the Walloons” (English translation)"
+    ],
+    "start_year": "1901",
+    "end_year": "Present",
+    "composers": [
+        "Louis Hillier"
+    ],
+    "link": "https://nationalanthems.info/wln.htm",
+    "music_path": "data/music/Wallonia.mp3"
+}

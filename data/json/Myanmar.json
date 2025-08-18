@@ -1,0 +1,15 @@
+{
+    "country": "Myanmar",
+    "anthem_names": [
+        "“ကမ္ဘာမကြေ” (Burmese (Burmese script))",
+        "“Kaba Ma Kyei” (Burmese (Romanization))",
+        "“‘Til the End of the World” (English translation)"
+    ],
+    "start_year": "1947",
+    "end_year": "Present",
+    "composers": [
+        "ဆရာတင် (Saya Tin)"
+    ],
+    "link": "https://nationalanthems.info/mm.htm",
+    "music_path": "data/music/Myanmar.mp3"
+}

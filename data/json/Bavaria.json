@@ -1,0 +1,14 @@
+{
+    "country": "Bavaria",
+    "anthem_names": [
+        "“Für Bayern” (German)",
+        "“For Bavaria” (English translation)"
+    ],
+    "start_year": "1860",
+    "end_year": "Present",
+    "composers": [
+        "Konrad Max Kunz"
+    ],
+    "link": "https://nationalanthems.info/bav.htm",
+    "music_path": "data/music/Bavaria.mp3"
+}

@@ -1,0 +1,15 @@
+{
+    "country": "North Macedonia",
+    "anthem_names": [
+        "“Денес Над Македонија” (Macedonian (Cyrillic script))",
+        "“Denes Nad Makedonija” (Macedonian (Romanization))",
+        "“Today Over Macedonia” (English translation)"
+    ],
+    "start_year": "1992",
+    "end_year": "Present",
+    "composers": [
+        "Тодор Скаловски (Todor Skalovski)"
+    ],
+    "link": "https://nationalanthems.info/mk.htm",
+    "music_path": "data/music/North_Macedonia.mp3"
+}

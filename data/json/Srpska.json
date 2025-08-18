@@ -1,0 +1,15 @@
+{
+    "country": "Srpska",
+    "anthem_names": [
+        "“Моја Република” (Serbian (Cyrillic script))",
+        "“Moja Republika” (Serbian (Latin alphabet))",
+        "“My Republic” (English translation)"
+    ],
+    "start_year": "2008",
+    "end_year": "Present",
+    "composers": [
+        "unknown"
+    ],
+    "link": "https://nationalanthems.info/srp.htm",
+    "music_path": "data/music/Srpska.mp3"
+}

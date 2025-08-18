@@ -1,0 +1,14 @@
+{
+    "country": "Jamaica",
+    "anthem_names": [
+        "“Jamaica, Land We Love”"
+    ],
+    "start_year": "1962",
+    "end_year": "Present",
+    "composers": [
+        "Robert Charles Lightbourne",
+        "Mapletoft Poulle (arranger)"
+    ],
+    "link": "https://nationalanthems.info/jm.htm",
+    "music_path": "data/music/Jamaica.mp3"
+}

@@ -1,0 +1,13 @@
+{
+    "country": "Confederate States of America",
+    "anthem_names": [
+        "“God Save the South”"
+    ],
+    "start_year": "1861",
+    "end_year": "Present",
+    "composers": [
+        "Charles Wolfgang Amadeus Ellerbrock"
+    ],
+    "link": "https://nationalanthems.info/csa.htm",
+    "music_path": "data/music/Confederate_States_of_America.mp3"
+}

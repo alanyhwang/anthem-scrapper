@@ -1,0 +1,14 @@
+{
+    "country": "Chile",
+    "anthem_names": [
+        "“Himno Nacional de Chile” (Spanish)",
+        "“National Anthem of Chile” (English translation)"
+    ],
+    "start_year": "1828",
+    "end_year": "Present",
+    "composers": [
+        "Ramon Carnicer i Batlle"
+    ],
+    "link": "https://nationalanthems.info/cl.htm",
+    "music_path": "data/music/Chile.mp3"
+}

@@ -1,0 +1,14 @@
+{
+    "country": "Katanga",
+    "anthem_names": [
+        "“La Katangaise” (French)",
+        "“The Katangaise” (English translation)"
+    ],
+    "start_year": "1960",
+    "end_year": "Present",
+    "composers": [
+        "S. E. Joseph Kiwele"
+    ],
+    "link": "https://nationalanthems.info/kat.htm",
+    "music_path": "data/music/Katanga.mp3"
+}

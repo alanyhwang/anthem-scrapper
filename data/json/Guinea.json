@@ -1,0 +1,14 @@
+{
+    "country": "Guinea",
+    "anthem_names": [
+        "“Liberté” (French)",
+        "“Liberty” (English translation)"
+    ],
+    "start_year": "1958",
+    "end_year": "Present",
+    "composers": [
+        "Fodeba Keita"
+    ],
+    "link": "https://nationalanthems.info/gn.htm",
+    "music_path": "data/music/Guinea.mp3"
+}

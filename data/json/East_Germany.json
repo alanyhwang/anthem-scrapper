@@ -1,0 +1,14 @@
+{
+    "country": "East Germany",
+    "anthem_names": [
+        "“Auferstanden aus Ruinen” (German)",
+        "“Risen from Ruins” (English translation)"
+    ],
+    "start_year": "1949",
+    "end_year": "Present",
+    "composers": [
+        "Hanns Eisler"
+    ],
+    "link": "https://nationalanthems.info/ddr.htm",
+    "music_path": "data/music/East_Germany.mp3"
+}

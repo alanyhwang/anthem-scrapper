@@ -1,0 +1,14 @@
+{
+    "country": "Singapore",
+    "anthem_names": [
+        "“Majulah Singapura” (Malay)",
+        "“Onward Singapore” (English translation)"
+    ],
+    "start_year": "1959",
+    "end_year": "Present",
+    "composers": [
+        "Zubir Said"
+    ],
+    "link": "https://nationalanthems.info/sg.htm",
+    "music_path": "data/music/Singapore.mp3"
+}

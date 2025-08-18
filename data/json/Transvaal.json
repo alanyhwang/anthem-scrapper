@@ -1,0 +1,15 @@
+{
+    "country": "Transvaal",
+    "anthem_names": [
+        "“Volkslied van Transvaal” (Dutch)",
+        "“National Anthem of the Transvaal” (English translation)"
+    ],
+    "start_year": "1875",
+    "end_year": "Present",
+    "composers": [
+        "Richard Hol",
+        "Catharina van Rees"
+    ],
+    "link": "https://nationalanthems.info/tvl.htm",
+    "music_path": "data/music/Transvaal.mp3"
+}

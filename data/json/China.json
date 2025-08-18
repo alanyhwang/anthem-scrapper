@@ -1,0 +1,18 @@
+{
+    "country": "China",
+    "anthem_names": [
+        "“义勇军进行曲” (Chinese (simplified Chinese script))",
+        "“Yìyǒngjūn Jìnxíngqǔ” (Chinese (Pinyin Romanization))",
+        "“The March of the Volunteers” (English translation)",
+        "“中國 國歌” (unofficial title (Chinese (simplified Chinese script)))",
+        "“Zhōngguó guógē” (unofficial title (Chinese (Pinyin Romanization)))",
+        "“Chinese National Song” (unofficial title (English translation))"
+    ],
+    "start_year": "1949",
+    "end_year": "Present",
+    "composers": [
+        "聂耳 (Niè Ěr)"
+    ],
+    "link": "https://nationalanthems.info/cn.htm",
+    "music_path": "data/music/China.mp3"
+}

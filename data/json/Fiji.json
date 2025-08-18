@@ -1,0 +1,16 @@
+{
+    "country": "Fiji",
+    "anthem_names": [
+        "“God Bless Fiji” (English)",
+        "“Meda Dau Doka” (Fijian)",
+        "“Let Us Show Pride” (English translation)"
+    ],
+    "start_year": "1970",
+    "end_year": "Present",
+    "composers": [
+        "Charles Austin Miles",
+        "adapted by Michael Francis Alexander Prescott"
+    ],
+    "link": "https://nationalanthems.info/fj.htm",
+    "music_path": "data/music/Fiji.mp3"
+}

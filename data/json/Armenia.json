@@ -1,0 +1,15 @@
+{
+    "country": "Armenia",
+    "anthem_names": [
+        "“Մեր Հայրենիք” (Armenian (Armenian script)",
+        "“Mer Hayrenik” (Armenian (Romanization)",
+        "“Our Fatherland” (English translation)"
+    ],
+    "start_year": "1991",
+    "end_year": "Present",
+    "composers": [
+        "Բարսեղ Կանաչյան (Barsegh Kanachyan)"
+    ],
+    "link": "https://nationalanthems.info/am.htm",
+    "music_path": "data/music/Armenia.mp3"
+}

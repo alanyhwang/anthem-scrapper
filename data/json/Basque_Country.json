@@ -1,0 +1,14 @@
+{
+    "country": "Basque Country",
+    "anthem_names": [
+        "“Eusko Abendaren Ereserkia” (Basque)",
+        "“Anthem of the Basque Ethnicity” (English translation)"
+    ],
+    "start_year": "1905",
+    "end_year": "Present",
+    "composers": [
+        "traditional, arranged by Cleto Zabala"
+    ],
+    "link": "https://nationalanthems.info/eus.htm",
+    "music_path": "data/music/Basque_Country.mp3"
+}
