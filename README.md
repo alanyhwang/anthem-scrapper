@@ -2,7 +2,32 @@
 
 This script will:
 
-- scrape this website: https://nationalanthems.info/
-- get these data from each page: country, national anthem name, start date, end date (can be a number or "present" indicating the current national anthem), composer, and download the sheet music, change its name to its .htm name (while keeping the extension), for example music in abk.htm becomes abk.mp3 and create a path link to the downloaded file
-- store each page data into a json file, with file name the same as its .htm name, for example abk.htm data will be stored in abk.json
-- the result should have anthem music folder with all the music files and anthem data folder with all the json files
+- scrape this website: https://nationalanthems.info/ for all current countries and their national anthems
+  - NOTE: past anthems that are not currently used are excluded from this script, including royal anthems
+- extracted data are in the following format:
+
+  - in data/json : each country an information are in its own json file (example: Canada.json)
+
+  - in data/music : stores each country's music (example Canada.mp3)
+  - in data/data.csv : all countries and information extracted are put in a csv format (encoding = "utf-8")
+
+- JSON exmaple:
+
+```
+        {
+            "country": "Canada",
+            "anthem_names": [
+                "“O Canada” (English)",
+                "“Ô Canada” (French)"
+            ],
+            "start_year": "1980",
+            "end_year": "Present",
+            "composers": [
+                "Calixa Lavallée"
+            ],
+            "link": "https://nationalanthems.info/ca.htm",
+            "music_path": "data/music/Canada.mp3"
+        }
+```
+
+- SOURCE: The extracted data is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). For more information, go to https://nationalanthems.info/faq.html
