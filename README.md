@@ -30,4 +30,11 @@ This script will:
         }
 ```
 
-- SOURCE: The extracted data is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). For more information, go to https://nationalanthems.info/faq.html
+Scraping prograss bar:
+
+<img width="1147" height="374" alt="progress bar scraper" src="https://github.com/user-attachments/assets/7c9a2874-9ca2-4f91-b7a3-d2e52b5b44d4" />
+
+</br>
+</br>
+
+SOURCE: The extracted data is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). For more information, go to https://nationalanthems.info/faq.html
